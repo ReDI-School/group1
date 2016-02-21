@@ -5,8 +5,8 @@
 Breite Str. 1, 10178 Berlin
 Uppermost floor
 
-### Wednesdays 7pm - ??? Impact Hub
+### Wednesdays 7pm - 9pm Impact Hub
 Friedrichstr. 246, 10969 Berlin
 
-### Thursdays Impact Hub
+### Thursdays 7pm - 9pm Impact Hub
 Friedrichstr. 246, 10969 Berlin

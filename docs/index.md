@@ -46,6 +46,7 @@ Read Ruby in 100 Minutes [http://tutorials.jumpstartlab.com/projects/ruby_in_100
 
 ## Session 1 - 2016-02-14 - Ideation Session
 In this session we will
+
 * Identify worthy problems to solve
 * Cluster these problems into topics
 * Generate lots of ideas for each of these topics

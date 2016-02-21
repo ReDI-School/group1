@@ -11,4 +11,4 @@ A live preview of the site can be obtained by executing `mkdocs serve`
 
 Static html site can be built with `mkdocs build`
 
-To deploy site to GitHub pages use `mkdocs gh-deploy --clean`.
+To deploy site to GitHub pages use `mkdocs gh-deploy --clean`. This will add a commit to the `gh-pages` branch in your local git repository, which you then need to push.

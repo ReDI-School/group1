@@ -1,0 +1,64 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "ReDI Ruby Class\n\n\nSession 2 - Til's notes for 2016-02-21\n\n\nCurriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app\n\n\nWe go through this tutorial together: http://guides.railsgirls.com/app\nWhat we will cover\n\n\nBuild a Rails app by example. Intro to Rails concepts.\nBy the end\n\n\nYou will know how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nEveryone on their own laptop\n\n\nWhenever there is something unclear or you are stuck: ask!\n\n\nPlease help each other! I'll help you too of course.\n\n\nToday's project is a throwaway. We'll start with a real project later\nHomework\n\n\nRead Ruby in 100 Minutes \nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\n(Download it now, so that you don't need internet later.)\n\n\nwget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nSelf Study and Further Reading\n\n\nUsing command line and terminal\n\n\n\n\nhttp://www.learnenough.com/command-line-tutorial\n - for complete beginners\n\n\nhttp://cli.learncodethehardway.org/book/\n - step by step tutorial, has a little exercise for each command\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n - thorough tutorial, also goes into vi use and scripting\n\n\nhttp://ryanstutorials.net/linuxtutorial/cheatsheet.php\n - cheatsheet from above tutorial\n\n\n\n\nSession 1 - 2016-02-14 - Ideation Session\n\n\nIn this session we will\n\n Identify worthy problems to solve\n\n Cluster these problems into topics\n\n Generate lots of ideas for each of these topics\n\n Devlep a pen and paper prototype of how the problems could be solved", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#redi-ruby-class", 
+            "text": "", 
+            "title": "ReDI Ruby Class"
+        }, 
+        {
+            "location": "/#session-2-tils-notes-for-2016-02-21", 
+            "text": "Curriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app  We go through this tutorial together: http://guides.railsgirls.com/app\nWhat we will cover  Build a Rails app by example. Intro to Rails concepts.\nBy the end  You will know how to create new rails apps and have an overview over the basic structure and functionality of rails.   a web app to store ideas  use so-called scaffolding to generate code  with picture upload  with fancy bootstrap styling  replace railsgirls with redi  replace ideas with something else if you want  Optionally: deploy the rails app to heroku   Everyone on their own laptop  Whenever there is something unclear or you are stuck: ask!  Please help each other! I'll help you too of course.  Today's project is a throwaway. We'll start with a real project later\nHomework  Read Ruby in 100 Minutes  http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html  (Download it now, so that you don't need internet later.)  wget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html  Self Study and Further Reading  Using command line and terminal   http://www.learnenough.com/command-line-tutorial  - for complete beginners  http://cli.learncodethehardway.org/book/  - step by step tutorial, has a little exercise for each command  http://ryanstutorials.net/linuxtutorial/  - thorough tutorial, also goes into vi use and scripting  http://ryanstutorials.net/linuxtutorial/cheatsheet.php  - cheatsheet from above tutorial", 
+            "title": "Session 2 - Til's notes for 2016-02-21"
+        }, 
+        {
+            "location": "/#session-1-2016-02-14-ideation-session", 
+            "text": "In this session we will  Identify worthy problems to solve  Cluster these problems into topics  Generate lots of ideas for each of these topics  Devlep a pen and paper prototype of how the problems could be solved", 
+            "title": "Session 1 - 2016-02-14 - Ideation Session"
+        }, 
+        {
+            "location": "/organization/", 
+            "text": "Organization\n\n\nSessions and Locations\n\n\nSundays 12pm - 3pm GTEC/TechStars\n\n\nBreite Str. 1, 10178 Berlin\nUppermost floor\n\n\nWednesdays 7pm - ??? Impact Hub\n\n\nFriedrichstr. 246, 10969 Berlin\n\n\nThursdays Impact Hub\n\n\nFriedrichstr. 246, 10969 Berlin", 
+            "title": "Organization"
+        }, 
+        {
+            "location": "/organization/#organization", 
+            "text": "", 
+            "title": "Organization"
+        }, 
+        {
+            "location": "/organization/#sessions-and-locations", 
+            "text": "Sundays 12pm - 3pm GTEC/TechStars  Breite Str. 1, 10178 Berlin\nUppermost floor  Wednesdays 7pm - ??? Impact Hub  Friedrichstr. 246, 10969 Berlin  Thursdays Impact Hub  Friedrichstr. 246, 10969 Berlin", 
+            "title": "Sessions and Locations"
+        }, 
+        {
+            "location": "/links/", 
+            "text": "Links\n\n\nMaterial\n\n\nRails\n\n\nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nLinux Command Line\n\n\nhttp://www.learnenough.com/command-line-tutorial\n\n\nhttp://cli.learncodethehardway.org/book/\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n\n\nCheat Sheets\n\n\nhttp://ryanstutorials.net/linuxtutorial/cheatsheet.php\n\n\nMisc\n\n\n\n\nhttp://www.publicwifi.de/\n - wifi spots in Berlin\n\n\nGitHub\n\n\nStack Overflow", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/links/#links", 
+            "text": "", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/links/#material", 
+            "text": "Rails  http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html  Linux Command Line  http://www.learnenough.com/command-line-tutorial  http://cli.learncodethehardway.org/book/  http://ryanstutorials.net/linuxtutorial/", 
+            "title": "Material"
+        }, 
+        {
+            "location": "/links/#cheat-sheets", 
+            "text": "http://ryanstutorials.net/linuxtutorial/cheatsheet.php", 
+            "title": "Cheat Sheets"
+        }, 
+        {
+            "location": "/links/#misc", 
+            "text": "http://www.publicwifi.de/  - wifi spots in Berlin  GitHub  Stack Overflow", 
+            "title": "Misc"
+        }
+    ]
+}

@@ -1,9 +1,9 @@
 # ReDI Ruby Class
 
-This folder follows the conventions of http://www.mkdocs.org/
+## Documentation
+This project's documentation follows the conventions of http://www.mkdocs.org/
 
-
-To edit files go to `/docs/` and edit the files. File format is markdown. 
+To edit documentation go to `/docs/` and edit the files. File format is markdown. 
 
 To edit the list of documents change `mkdocs.yml`
 

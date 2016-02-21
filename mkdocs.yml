@@ -1,0 +1,7 @@
+site_name: ReDI Ruby Class
+pages:
+- Home: index.md
+- Organization: organization.md
+- Links: links.md
+
+theme: spacelab

@@ -13,8 +13,8 @@
 
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../css/font-awesome-4.0.3.css" rel="stylesheet">
-        <link rel="stylesheet" href="../css/highlight.css">
         <link href="../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/highlight.css">
 
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
@@ -32,6 +32,7 @@
 
         <!-- Collapsed navigation -->
         <div class="navbar-header">
+            
             <!-- Expander button -->
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                 <span class="sr-only">Toggle navigation</span>
@@ -39,6 +40,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+            
 
             <!-- Main title -->
             <a class="navbar-brand" href="..">ReDI Ruby Class - Group 1</a>
@@ -46,59 +48,67 @@
 
         <!-- Expanded navigation -->
         <div class="navbar-collapse collapse">
-            <!-- Main navigation -->
-            <ul class="nav navbar-nav">
             
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                
+                
+                    <li >
+                        <a href="..">Sessions</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../trail/">Study Trail</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../projects/">Projects</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../organization/">Organization</a>
+                    </li>
+                
+                
+                
+                    <li class="active">
+                        <a href="./">Q&A</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../links/">Links</a>
+                    </li>
+                
+                
+                </ul>
             
-                <li >
-                    <a href="..">Sessions</a>
-                </li>
-            
-            
-            
-                <li >
-                    <a href="../trail/">Study Trail</a>
-                </li>
-            
-            
-            
-                <li >
-                    <a href="../projects/">Projects</a>
-                </li>
-            
-            
-            
-                <li >
-                    <a href="../organization/">Organization</a>
-                </li>
-            
-            
-            
-                <li class="active">
-                    <a href="./">Q&A</a>
-                </li>
-            
-            
-            
-                <li >
-                    <a href="../links/">Links</a>
-                </li>
-            
-            
-            </ul>
 
-            <!-- Search, Navigation and Repo links -->
             <ul class="nav navbar-nav navbar-right">
-                <li >
-                    <a rel="next" href="../organization/">
-                        <i class="fa fa-arrow-left"></i> Previous
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
                     </a>
                 </li>
-                <li >
-                    <a rel="prev" href="../links/">
-                        Next <i class="fa fa-arrow-right"></i>
-                    </a>
-                </li>
+                
+                    <li >
+                        <a rel="next" href="../organization/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../links/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>
+                
                 
             </ul>
         </div>
@@ -106,19 +116,36 @@
 </div>
 
         <div class="container">
-            <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+            
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
         <li class="main active"><a href="#questions-and-answers">Questions and Answers</a></li>
+        
+            <li><a href="#what-is-the-difference-between-puts-and-print">What is the difference between puts and print?</a></li>
+        
+            <li><a href="#can-one-build-mobile-apps-with-ruby-where-ruby-is-executed-on-the-mobile-device">Can one build mobile apps with Ruby where ruby is executed on the mobile device?</a></li>
         
             <li><a href="#how-to-listen-to-internet-radio-from-the-command-line">How to listen to internet radio from the command line?</a></li>
         
     
     </ul>
 </div></div>
-            <div class="col-md-9" role="main">
+                <div class="col-md-9" role="main">
 
 <h1 id="questions-and-answers">Questions and Answers</h1>
+<h2 id="what-is-the-difference-between-puts-and-print">What is the difference between puts and print?</h2>
+<blockquote>
+<p>The puts (short for "put string") and print commands are both used to  display the results of evaluating Ruby code. The primary difference between them is that puts adds a newline after executing, and print does not.</p>
+</blockquote>
+<p>excerpt from <a href="https://www.codecademy.com/articles/glossary-ruby#puts-vs-print">https://www.codecademy.com/articles/glossary-ruby#puts-vs-print</a></p>
+<h2 id="can-one-build-mobile-apps-with-ruby-where-ruby-is-executed-on-the-mobile-device">Can one build mobile apps with Ruby where ruby is executed on the mobile device?</h2>
+<p>Yes and no. See <a href="http://stackoverflow.com/questions/4075610/can-we-use-ruby-on-rails-to-develop-a-mobile-app">http://stackoverflow.com/questions/4075610/can-we-use-ruby-on-rails-to-develop-a-mobile-app</a> for a general discussion.</p>
+<p>If you still want to do it, you might want to take a look at</p>
+<ul>
+<li><a href="http://www.rubymotion.com/">http://www.rubymotion.com/</a></li>
+<li><a href="http://mobiruby.org/">http://mobiruby.org/</a></li>
+</ul>
 <h2 id="how-to-listen-to-internet-radio-from-the-command-line">How to listen to internet radio from the command line?</h2>
 <p>Install mpv player by typing <code>sudo apt-get install mpv</code> in the command line</p>
 <p>In file: <code>.bashrc</code></p>
@@ -134,17 +161,46 @@ alias tv.arte="(firefox http://www.arte.tv/guide/de/live &gt; /dev/null 2&gt;&am
 </code></pre>
 <p>Restart your terminal for the changes to take effect</p>
 <p>You can not listen to the above radio stations by typing the aliases, e.g. <code>radio.dradio</code> in the command line</p></div>
+            
         </div>
 
         <footer class="col-md-12">
             <hr>
             
-            <center>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</center>
+            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
 
         <script src="../js/jquery-1.10.2.min.js"></script>
         <script src="../js/bootstrap-3.0.3.min.js"></script>
         <script src="../js/highlight.pack.js"></script>
+        <script>var base_url = '..';</script>
+        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
         <script src="../js/base.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                        <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            From here you can search these documents. Enter
+                            your search terms below.
+                        </p>
+                        <form role="form">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                            </div>
+                        </form>
+                        <div id="mkdocs-search-results"></div>
+                    </div>
+                    <div class="modal-footer">
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </body>
 </html>

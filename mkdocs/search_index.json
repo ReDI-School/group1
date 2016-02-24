@@ -27,12 +27,12 @@
         }, 
         {
             "location": "/trail/", 
-            "text": "Study Trail\n\n\nDesign Thinking\n\n\n\n\nBrainstorming\n\n\nClustering\n\n\nDot voting\n\n\n\"How can we...?\" questions\n\n\nPrototyping\n\n\n\n\nCommand Line\n\n\nRails Stack\n\n\nRuby\n\n\nComing up next\n\n\n\n\nGit and GitHub", 
+            "text": "Study Trail\n\n\nThis page gives on overview of all the topics we have covered and the next topics to come.\n\n\nDesign Thinking\n\n\n\n\nBrainstorming\n\n\nClustering\n\n\nDot voting\n\n\n\"How can we...?\" questions\n\n\nPrototyping\n\n\n\n\nCommand Line\n\n\nCheat Sheet\n\n\nhttp://www.learnenough.com/command-line-tutorial\n\n\nhttp://cli.learncodethehardway.org/book/\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n\n\nRails Stack\n\n\nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nRuby\n\n\nGit and GitHub\n\n\nCheat Sheet\n\n\nTutorial for Git Commands\n\n\nComing up next\n\n\n\n\nHTML/CSS\n\n\nJavaScript\n\n\nHTTP and REST", 
             "title": "Study Trail"
         }, 
         {
             "location": "/trail/#study-trail", 
-            "text": "", 
+            "text": "This page gives on overview of all the topics we have covered and the next topics to come.", 
             "title": "Study Trail"
         }, 
         {
@@ -42,12 +42,12 @@
         }, 
         {
             "location": "/trail/#command-line", 
-            "text": "", 
+            "text": "Cheat Sheet  http://www.learnenough.com/command-line-tutorial  http://cli.learncodethehardway.org/book/  http://ryanstutorials.net/linuxtutorial/", 
             "title": "Command Line"
         }, 
         {
             "location": "/trail/#rails-stack", 
-            "text": "", 
+            "text": "http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html", 
             "title": "Rails Stack"
         }, 
         {
@@ -56,18 +56,23 @@
             "title": "Ruby"
         }, 
         {
+            "location": "/trail/#git-and-github", 
+            "text": "Cheat Sheet  Tutorial for Git Commands", 
+            "title": "Git and GitHub"
+        }, 
+        {
             "location": "/trail/#coming-up-next", 
-            "text": "Git and GitHub", 
+            "text": "HTML/CSS  JavaScript  HTTP and REST", 
             "title": "Coming up next"
         }, 
         {
             "location": "/projects/", 
-            "text": "Projects\n\n\nIdea app\n\n\nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nIn this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nHello World app\n\n\nhttps://github.com/ReDI-School/hello-world\n\n\nIn this project you learn how to use Git for version control and the workflow of working with online Git repositories.\n\n\nBy the end you will\n\n\n\n\nhave your own GitHub account\n\n\nknow how to clone a git project\n\n\nknow how to make changes to a git project\n\n\nknow how to submit these changes back into the main repository", 
+            "text": "Projects\n\n\nThis page gives an overview of the projects you are working on.\n\n\nIdea app\n\n\nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nIn this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nHello World app\n\n\nhttps://github.com/ReDI-School/hello-world\n\n\nIn this project you learn how to use Git for version control and the workflow of working with online Git repositories.\n\n\nBy the end you will\n\n\n\n\nhave your own GitHub account\n\n\nknow how to clone a git project\n\n\nknow how to make changes to a git project\n\n\nknow how to submit these changes back into the main repository", 
             "title": "Projects"
         }, 
         {
             "location": "/projects/#projects", 
-            "text": "", 
+            "text": "This page gives an overview of the projects you are working on.", 
             "title": "Projects"
         }, 
         {
@@ -112,28 +117,13 @@
         }, 
         {
             "location": "/links/", 
-            "text": "Links\n\n\nMaterial\n\n\nRails\n\n\nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nLinux Command Line\n\n\nhttp://www.learnenough.com/command-line-tutorial\n\n\nhttp://cli.learncodethehardway.org/book/\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n\n\nCheat Sheets\n\n\nhttp://ryanstutorials.net/linuxtutorial/cheatsheet.php\n\n\nMisc\n\n\n\n\nhttp://www.publicwifi.de/\n - wifi spots in Berlin\n\n\nGitHub\n\n\nStack Overflow", 
+            "text": "Links\n\n\n\n\nReDI School of Digital Integration\n\n\nPublicWifi\n - wifi spots in Berlin\n\n\nGitHub\n\n\nStack Overflow", 
             "title": "Links"
         }, 
         {
             "location": "/links/#links", 
-            "text": "", 
+            "text": "ReDI School of Digital Integration  PublicWifi  - wifi spots in Berlin  GitHub  Stack Overflow", 
             "title": "Links"
-        }, 
-        {
-            "location": "/links/#material", 
-            "text": "Rails  http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html  Linux Command Line  http://www.learnenough.com/command-line-tutorial  http://cli.learncodethehardway.org/book/  http://ryanstutorials.net/linuxtutorial/", 
-            "title": "Material"
-        }, 
-        {
-            "location": "/links/#cheat-sheets", 
-            "text": "http://ryanstutorials.net/linuxtutorial/cheatsheet.php", 
-            "title": "Cheat Sheets"
-        }, 
-        {
-            "location": "/links/#misc", 
-            "text": "http://www.publicwifi.de/  - wifi spots in Berlin  GitHub  Stack Overflow", 
-            "title": "Misc"
         }
     ]
 }

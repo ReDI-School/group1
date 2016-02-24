@@ -1,7 +1,7 @@
 # Projects
-
+This page gives an overview of the projects you are working on.
 ## Idea app
-[http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
+[Idea App Tutorial](http://guides.railsgirls.com/app)
 
 In this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.
 
@@ -14,7 +14,7 @@ In this project you learn how to create new rails apps and have an overview over
 * Optionally: deploy the rails app to heroku
 
 ## Hello World app
-[https://github.com/ReDI-School/hello-world](https://github.com/ReDI-School/hello-world)
+[Hello World repository](https://github.com/ReDI-School/hello-world)
 
 In this project you learn how to use Git for version control and the workflow of working with online Git repositories.
 

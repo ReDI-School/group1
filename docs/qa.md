@@ -1,5 +1,6 @@
 # Questions and Answers
 ## How to listen to internet radio from the command line?
+Install mpv player by typing `sudo apt-get install mpv` in the command line
 
 In file: `.bashrc`
 
@@ -13,5 +14,6 @@ In file: `.bashrc`
     alias radio.fluxfm="mpv http://fluxfm.hoerradar.de/fluxfm-berlin"
     alias tv.arte="(firefox http://www.arte.tv/guide/de/live > /dev/null 2>&1) &"
 
-check if mpv (the successor of mplayer) is installed, if not, replace
-mpv with mplayer, that's most certainly available.
+Restart your terminal for the changes to take effect
+
+You can not listen to the above radio stations by typing the aliases, e.g. `radio.dradio` in the command line

@@ -6,7 +6,7 @@
     * What did you learn recently?
 * Q&A Session
 * short break
-* Digging into ruby
+* Digging into Ruby
 
 ### Assignment for Tomorrow
 * Go to [https://github.com/ReDI-School/hello-world](https://github.com/ReDI-School/hello-world)

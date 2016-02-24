@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/trail/", 
-            "text": "Study Trail\n\n\nThis page gives on overview of all the topics we have covered and the next topics to come.\n\n\nDesign Thinking\n\n\n\n\nBrainstorming\n\n\nClustering\n\n\nDot voting\n\n\n\"How can we...?\" questions\n\n\nPrototyping\n\n\n\n\nCommand Line\n\n\nCheat Sheet\n\n\nhttp://www.learnenough.com/command-line-tutorial\n\n\nhttp://cli.learncodethehardway.org/book/\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n\n\nRails Stack\n\n\nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nRuby\n\n\nGit and GitHub\n\n\nCheat Sheet\n\n\nTutorial for Git Commands\n\n\nComing up next\n\n\n\n\nHTML/CSS\n\n\nJavaScript\n\n\nHTTP and REST", 
+            "text": "Study Trail\n\n\nThis page gives on overview of all the topics we have covered and the next topics to come.\n\n\nDesign Thinking\n\n\n\n\nBrainstorming\n\n\nClustering\n\n\nDot voting\n\n\n\"How can we...?\" questions\n\n\nPrototyping\n\n\n\n\nCommand Line\n\n\nCheat Sheet\n\n\nhttp://www.learnenough.com/command-line-tutorial\n\n\nhttp://cli.learncodethehardway.org/book/\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n\n\nRuby\n\n\nRuby in 100 minutes\n\n\nGit and GitHub\n\n\nCheat Sheet\n\n\nTutorial for Git Commands\n\n\nComing up next\n\n\n\n\nHTML/CSS\n\n\nJavaScript\n\n\nHTTP and REST", 
             "title": "Study Trail"
         }, 
         {
@@ -46,13 +46,8 @@
             "title": "Command Line"
         }, 
         {
-            "location": "/trail/#rails-stack", 
-            "text": "http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html", 
-            "title": "Rails Stack"
-        }, 
-        {
             "location": "/trail/#ruby", 
-            "text": "", 
+            "text": "Ruby in 100 minutes", 
             "title": "Ruby"
         }, 
         {
@@ -67,7 +62,7 @@
         }, 
         {
             "location": "/projects/", 
-            "text": "Projects\n\n\nThis page gives an overview of the projects you are working on.\n\n\nIdea app\n\n\nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nIn this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nHello World app\n\n\nhttps://github.com/ReDI-School/hello-world\n\n\nIn this project you learn how to use Git for version control and the workflow of working with online Git repositories.\n\n\nBy the end you will\n\n\n\n\nhave your own GitHub account\n\n\nknow how to clone a git project\n\n\nknow how to make changes to a git project\n\n\nknow how to submit these changes back into the main repository", 
+            "text": "Projects\n\n\nThis page gives an overview of the projects you are working on.\n\n\nIdea app\n\n\nIdea App Tutorial\n\n\nIn this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nHello World app\n\n\nHello World repository\n\n\nIn this project you learn how to use Git for version control and the workflow of working with online Git repositories.\n\n\nBy the end you will\n\n\n\n\nhave your own GitHub account\n\n\nknow how to clone a git project\n\n\nknow how to make changes to a git project\n\n\nknow how to submit these changes back into the main repository", 
             "title": "Projects"
         }, 
         {
@@ -77,12 +72,12 @@
         }, 
         {
             "location": "/projects/#idea-app", 
-            "text": "http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html  In this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.   a web app to store ideas  use so-called scaffolding to generate code  with picture upload  with fancy bootstrap styling  replace railsgirls with redi  replace ideas with something else if you want  Optionally: deploy the rails app to heroku", 
+            "text": "Idea App Tutorial  In this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.   a web app to store ideas  use so-called scaffolding to generate code  with picture upload  with fancy bootstrap styling  replace railsgirls with redi  replace ideas with something else if you want  Optionally: deploy the rails app to heroku", 
             "title": "Idea app"
         }, 
         {
             "location": "/projects/#hello-world-app", 
-            "text": "https://github.com/ReDI-School/hello-world  In this project you learn how to use Git for version control and the workflow of working with online Git repositories.  By the end you will   have your own GitHub account  know how to clone a git project  know how to make changes to a git project  know how to submit these changes back into the main repository", 
+            "text": "Hello World repository  In this project you learn how to use Git for version control and the workflow of working with online Git repositories.  By the end you will   have your own GitHub account  know how to clone a git project  know how to make changes to a git project  know how to submit these changes back into the main repository", 
             "title": "Hello World app"
         }, 
         {
@@ -102,7 +97,7 @@
         }, 
         {
             "location": "/qa/", 
-            "text": "Questions and Answers\n\n\nHow to listen to internet radio from the command line?\n\n\nIn file: \n.bashrc\n\n\nalias radio.wfmu=\"mpv http://mp3stream.wfmu.org\"\nalias radio.oe1=\"mpv mms://apasf.apa.at/oe1_live_worldwide\"\nalias radio.fm4=\"mpv http://mp3stream1.apasf.apa.at:8000/\"\nalias radio.o94=\"mpv http://orange-01.live.sil.at:8000\"\nalias radio.88vier=\"mpv http://ice.rosebud-media.de:8000/88vier\"\nalias radio.dradio=\"mpv http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l\"\nalias radio.funkhauseuropa=\"mpv http://fhe-ogg.akacast.akamaistream.net/7/933/199785/v1/gnl.akacast.akamaistream.net/fhe-ogg\"\nalias radio.fluxfm=\"mpv http://fluxfm.hoerradar.de/fluxfm-berlin\"\nalias tv.arte=\"(firefox http://www.arte.tv/guide/de/live \n /dev/null 2\n1) \n\"\n\n\n\ncheck if mpv (the successor of mplayer) is installed, if not, replace\nmpv with mplayer, that's most certainly available.", 
+            "text": "Questions and Answers\n\n\nHow to listen to internet radio from the command line?\n\n\nInstall mpv player by typing \nsudo apt-get install mpv\n in the command line\n\n\nIn file: \n.bashrc\n\n\nalias radio.wfmu=\"mpv http://mp3stream.wfmu.org\"\nalias radio.oe1=\"mpv mms://apasf.apa.at/oe1_live_worldwide\"\nalias radio.fm4=\"mpv http://mp3stream1.apasf.apa.at:8000/\"\nalias radio.o94=\"mpv http://orange-01.live.sil.at:8000\"\nalias radio.88vier=\"mpv http://ice.rosebud-media.de:8000/88vier\"\nalias radio.dradio=\"mpv http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l\"\nalias radio.funkhauseuropa=\"mpv http://fhe-ogg.akacast.akamaistream.net/7/933/199785/v1/gnl.akacast.akamaistream.net/fhe-ogg\"\nalias radio.fluxfm=\"mpv http://fluxfm.hoerradar.de/fluxfm-berlin\"\nalias tv.arte=\"(firefox http://www.arte.tv/guide/de/live \n /dev/null 2\n1) \n\"\n\n\n\nRestart your terminal for the changes to take effect\n\n\nYou can not listen to the above radio stations by typing the aliases, e.g. \nradio.dradio\n in the command line", 
             "title": "Q&A"
         }, 
         {
@@ -112,7 +107,7 @@
         }, 
         {
             "location": "/qa/#how-to-listen-to-internet-radio-from-the-command-line", 
-            "text": "In file:  .bashrc  alias radio.wfmu=\"mpv http://mp3stream.wfmu.org\"\nalias radio.oe1=\"mpv mms://apasf.apa.at/oe1_live_worldwide\"\nalias radio.fm4=\"mpv http://mp3stream1.apasf.apa.at:8000/\"\nalias radio.o94=\"mpv http://orange-01.live.sil.at:8000\"\nalias radio.88vier=\"mpv http://ice.rosebud-media.de:8000/88vier\"\nalias radio.dradio=\"mpv http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l\"\nalias radio.funkhauseuropa=\"mpv http://fhe-ogg.akacast.akamaistream.net/7/933/199785/v1/gnl.akacast.akamaistream.net/fhe-ogg\"\nalias radio.fluxfm=\"mpv http://fluxfm.hoerradar.de/fluxfm-berlin\"\nalias tv.arte=\"(firefox http://www.arte.tv/guide/de/live   /dev/null 2 1)  \"  check if mpv (the successor of mplayer) is installed, if not, replace\nmpv with mplayer, that's most certainly available.", 
+            "text": "Install mpv player by typing  sudo apt-get install mpv  in the command line  In file:  .bashrc  alias radio.wfmu=\"mpv http://mp3stream.wfmu.org\"\nalias radio.oe1=\"mpv mms://apasf.apa.at/oe1_live_worldwide\"\nalias radio.fm4=\"mpv http://mp3stream1.apasf.apa.at:8000/\"\nalias radio.o94=\"mpv http://orange-01.live.sil.at:8000\"\nalias radio.88vier=\"mpv http://ice.rosebud-media.de:8000/88vier\"\nalias radio.dradio=\"mpv http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l\"\nalias radio.funkhauseuropa=\"mpv http://fhe-ogg.akacast.akamaistream.net/7/933/199785/v1/gnl.akacast.akamaistream.net/fhe-ogg\"\nalias radio.fluxfm=\"mpv http://fluxfm.hoerradar.de/fluxfm-berlin\"\nalias tv.arte=\"(firefox http://www.arte.tv/guide/de/live   /dev/null 2 1)  \"  Restart your terminal for the changes to take effect  You can not listen to the above radio stations by typing the aliases, e.g.  radio.dradio  in the command line", 
             "title": "How to listen to internet radio from the command line?"
         }, 
         {

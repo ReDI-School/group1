@@ -1,5 +1,17 @@
 
-# ReDI Ruby Class
+# ReDI Ruby Class - Group 1
+## Session 3 - 2015-02-24 - Mentoring Session
+* Open Panel
+    * What did you build recently?
+    * What did you learn recently?
+* Q&A Session
+* short break
+* Digging into ruby
+
+### Assignment for Tomorrow
+* Go to [https://github.com/ReDI-School/hello-world](https://github.com/ReDI-School/hello-world)
+* Follow the instructions on the bottom of the page
+
 ## Session 2 - Til's notes for 2016-02-21
 
 Curriculum is not fully determined yet, especially for the accelerated groups

@@ -1,7 +1,11 @@
-site_name: ReDI Ruby Class
+site_name: ReDI Ruby Class - Group 1
 pages:
-- Home: index.md
+- Sessions: index.md
+- Study Trail: trail.md
+- Projects: projects.md
 - Organization: organization.md
+- Q&A: qa.md
 - Links: links.md
+
 
 theme: spacelab

@@ -15,6 +15,9 @@
     * Share what you have learned with the rest of the groups    
 * Wrap up and introduction of assignment    
 
+### Photo Protocol
+![photo](images/photo-protocol-20160224.jpg)
+
 ### Assignment for Tomorrow
 * Go to [https://github.com/ReDI-School/hello-world](https://github.com/ReDI-School/hello-world)
 * Follow the instructions on the bottom of the page

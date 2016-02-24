@@ -1,4 +1,17 @@
 # Questions and Answers
+## What is the difference between puts and print?
+> The puts (short for "put string") and print commands are both used to  display the results of evaluating Ruby code. The primary difference between them is that puts adds a newline after executing, and print does not.
+
+excerpt from [https://www.codecademy.com/articles/glossary-ruby#puts-vs-print](https://www.codecademy.com/articles/glossary-ruby#puts-vs-print)
+
+## Can one build mobile apps with Ruby where ruby is executed on the mobile device?
+Yes and no. See [http://stackoverflow.com/questions/4075610/can-we-use-ruby-on-rails-to-develop-a-mobile-app](http://stackoverflow.com/questions/4075610/can-we-use-ruby-on-rails-to-develop-a-mobile-app) for a general discussion.
+
+If you still want to do it, you might want to take a look at
+
+* [http://www.rubymotion.com/](http://www.rubymotion.com/)
+* [http://mobiruby.org/](http://mobiruby.org/)
+
 ## How to listen to internet radio from the command line?
 Install mpv player by typing `sudo apt-get install mpv` in the command line
 

@@ -7,10 +7,24 @@
 * Q&A Session
 * short break
 * Digging into Ruby
+    * Team up in groups of 2 (it's called pair programming)
+    * Complete the following exercises (from [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)):
+        * Group A: Exercise 1, 4, 6, 18, 28, 29
+        * Group B: Exercise 1, 4, 7, 19, 28, 32
+        * Group C: Exercise 1, 4, 8, 21, 28, 33
+    * Share what you have learned with the rest of the groups    
+* Wrap up and introduction of assignment    
 
 ### Assignment for Tomorrow
 * Go to [https://github.com/ReDI-School/hello-world](https://github.com/ReDI-School/hello-world)
 * Follow the instructions on the bottom of the page
+
+### Self assessment
+Please complete the following quizzes before the next session on Sunday:
+
+* [Variables, Strings, Numbers](http://www.codequizzes.com/learn-ruby/variables-strings-numbers)                             
+* [Arrays, conditionals, loops](  http://www.codequizzes.com/learn-ruby/arrays-conditionals-loops)
+* [Symbols, array methods, hashes](http://www.codequizzes.com/learn-ruby/symbols-array-methods-hashes)
 
 ## Session 2 - Til's notes for 2016-02-21
 

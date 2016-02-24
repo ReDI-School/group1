@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "ReDI Ruby Class\n\n\nSession 2 - Til's notes for 2016-02-21\n\n\nCurriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app\n\n\nWe go through this tutorial together: http://guides.railsgirls.com/app\nWhat we will cover\n\n\nBuild a Rails app by example. Intro to Rails concepts.\nBy the end\n\n\nYou will know how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nEveryone on their own laptop\n\n\nWhenever there is something unclear or you are stuck: ask!\n\n\nPlease help each other! I'll help you too of course.\n\n\nToday's project is a throwaway. We'll start with a real project later\nHomework\n\n\nRead Ruby in 100 Minutes \nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\n(Download it now, so that you don't need internet later.)\n\n\nwget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nSelf Study and Further Reading\n\n\nUsing command line and terminal\n\n\n\n\nhttp://www.learnenough.com/command-line-tutorial\n - for complete beginners\n\n\nhttp://cli.learncodethehardway.org/book/\n - step by step tutorial, has a little exercise for each command\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n - thorough tutorial, also goes into vi use and scripting\n\n\nhttp://ryanstutorials.net/linuxtutorial/cheatsheet.php\n - cheatsheet from above tutorial\n\n\n\n\nSession 1 - 2016-02-14 - Ideation Session\n\n\nIn this session we will\n\n\n\n\nIdentify worthy problems to solve\n\n\nCluster these problems into topics\n\n\nGenerate lots of ideas for each of these topics\n\n\nDevlep a pen and paper prototype of how the problems could be solved", 
-            "title": "Home"
+            "text": "ReDI Ruby Class - Group 1\n\n\nSession 3 - 2015-02-24 - Mentoring Session\n\n\n\n\nOpen Panel\n\n\nWhat did you build recently?\n\n\nWhat did you learn recently?\n\n\n\n\n\n\nQ\nA Session\n\n\nshort break\n\n\nDigging into ruby\n\n\n\n\nAssignment for Tomorrow\n\n\n\n\nGo to \nhttps://github.com/ReDI-School/hello-world\n\n\nFollow the instructions on the bottom of the page\n\n\n\n\nSession 2 - Til's notes for 2016-02-21\n\n\nCurriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app\n\n\nWe go through this tutorial together: http://guides.railsgirls.com/app\nWhat we will cover\n\n\nBuild a Rails app by example. Intro to Rails concepts.\nBy the end\n\n\nYou will know how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nEveryone on their own laptop\n\n\nWhenever there is something unclear or you are stuck: ask!\n\n\nPlease help each other! I'll help you too of course.\n\n\nToday's project is a throwaway. We'll start with a real project later\nHomework\n\n\nRead Ruby in 100 Minutes \nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\n(Download it now, so that you don't need internet later.)\n\n\nwget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nSelf Study and Further Reading\n\n\nUsing command line and terminal\n\n\n\n\nhttp://www.learnenough.com/command-line-tutorial\n - for complete beginners\n\n\nhttp://cli.learncodethehardway.org/book/\n - step by step tutorial, has a little exercise for each command\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n - thorough tutorial, also goes into vi use and scripting\n\n\nhttp://ryanstutorials.net/linuxtutorial/cheatsheet.php\n - cheatsheet from above tutorial\n\n\n\n\nSession 1 - 2016-02-14 - Ideation Session\n\n\nIn this session we will\n\n\n\n\nIdentify worthy problems to solve\n\n\nCluster these problems into topics\n\n\nGenerate lots of ideas for each of these topics\n\n\nDevlep a pen and paper prototype of how the problems could be solved", 
+            "title": "Sessions"
         }, 
         {
-            "location": "/#redi-ruby-class", 
+            "location": "/#redi-ruby-class-group-1", 
             "text": "", 
-            "title": "ReDI Ruby Class"
+            "title": "ReDI Ruby Class - Group 1"
+        }, 
+        {
+            "location": "/#session-3-2015-02-24-mentoring-session", 
+            "text": "Open Panel  What did you build recently?  What did you learn recently?    Q A Session  short break  Digging into ruby   Assignment for Tomorrow   Go to  https://github.com/ReDI-School/hello-world  Follow the instructions on the bottom of the page", 
+            "title": "Session 3 - 2015-02-24 - Mentoring Session"
         }, 
         {
             "location": "/#session-2-tils-notes-for-2016-02-21", 
@@ -21,8 +26,63 @@
             "title": "Session 1 - 2016-02-14 - Ideation Session"
         }, 
         {
+            "location": "/trail/", 
+            "text": "Study Trail\n\n\nDesign Thinking\n\n\n\n\nBrainstorming\n\n\nClustering\n\n\nDot voting\n\n\n\"How can we...?\" questions\n\n\nPrototyping\n\n\n\n\nCommand Line\n\n\nRails Stack\n\n\nRuby\n\n\nComing up next\n\n\n\n\nGit and GitHub", 
+            "title": "Study Trail"
+        }, 
+        {
+            "location": "/trail/#study-trail", 
+            "text": "", 
+            "title": "Study Trail"
+        }, 
+        {
+            "location": "/trail/#design-thinking", 
+            "text": "Brainstorming  Clustering  Dot voting  \"How can we...?\" questions  Prototyping", 
+            "title": "Design Thinking"
+        }, 
+        {
+            "location": "/trail/#command-line", 
+            "text": "", 
+            "title": "Command Line"
+        }, 
+        {
+            "location": "/trail/#rails-stack", 
+            "text": "", 
+            "title": "Rails Stack"
+        }, 
+        {
+            "location": "/trail/#ruby", 
+            "text": "", 
+            "title": "Ruby"
+        }, 
+        {
+            "location": "/trail/#coming-up-next", 
+            "text": "Git and GitHub", 
+            "title": "Coming up next"
+        }, 
+        {
+            "location": "/projects/", 
+            "text": "Projects\n\n\nIdea app\n\n\nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nIn this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nHello World app\n\n\nhttps://github.com/ReDI-School/hello-world\n\n\nIn this project you learn how to use Git for version control and the workflow of working with online Git repositories.\n\n\nBy the end you will\n\n\n\n\nhave your own GitHub account\n\n\nknow how to clone a git project\n\n\nknow how to make changes to a git project\n\n\nknow how to submit these changes back into the main repository", 
+            "title": "Projects"
+        }, 
+        {
+            "location": "/projects/#projects", 
+            "text": "", 
+            "title": "Projects"
+        }, 
+        {
+            "location": "/projects/#idea-app", 
+            "text": "http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html  In this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.   a web app to store ideas  use so-called scaffolding to generate code  with picture upload  with fancy bootstrap styling  replace railsgirls with redi  replace ideas with something else if you want  Optionally: deploy the rails app to heroku", 
+            "title": "Idea app"
+        }, 
+        {
+            "location": "/projects/#hello-world-app", 
+            "text": "https://github.com/ReDI-School/hello-world  In this project you learn how to use Git for version control and the workflow of working with online Git repositories.  By the end you will   have your own GitHub account  know how to clone a git project  know how to make changes to a git project  know how to submit these changes back into the main repository", 
+            "title": "Hello World app"
+        }, 
+        {
             "location": "/organization/", 
-            "text": "Organization\n\n\nSessions and Locations\n\n\nSundays 12pm - 3pm GTEC/TechStars\n\n\nBreite Str. 1, 10178 Berlin\nUppermost floor\n\n\nWednesdays 7pm - ??? Impact Hub\n\n\nFriedrichstr. 246, 10969 Berlin\n\n\nThursdays Impact Hub\n\n\nFriedrichstr. 246, 10969 Berlin", 
+            "text": "Organization\n\n\nSessions and Locations\n\n\nSundays 12pm - 3pm GTEC/TechStars\n\n\nBreite Str. 1, 10178 Berlin\nUppermost floor\n\n\nWednesdays 7pm - 9pm Impact Hub\n\n\nFriedrichstr. 246, 10969 Berlin\n\n\nThursdays 7pm - 9pm Impact Hub\n\n\nFriedrichstr. 246, 10969 Berlin", 
             "title": "Organization"
         }, 
         {
@@ -32,8 +92,23 @@
         }, 
         {
             "location": "/organization/#sessions-and-locations", 
-            "text": "Sundays 12pm - 3pm GTEC/TechStars  Breite Str. 1, 10178 Berlin\nUppermost floor  Wednesdays 7pm - ??? Impact Hub  Friedrichstr. 246, 10969 Berlin  Thursdays Impact Hub  Friedrichstr. 246, 10969 Berlin", 
+            "text": "Sundays 12pm - 3pm GTEC/TechStars  Breite Str. 1, 10178 Berlin\nUppermost floor  Wednesdays 7pm - 9pm Impact Hub  Friedrichstr. 246, 10969 Berlin  Thursdays 7pm - 9pm Impact Hub  Friedrichstr. 246, 10969 Berlin", 
             "title": "Sessions and Locations"
+        }, 
+        {
+            "location": "/qa/", 
+            "text": "Questions and Answers\n\n\nHow to listen to internet radio from the command line?\n\n\nIn file: \n.bashrc\n\n\nalias radio.wfmu=\"mpv http://mp3stream.wfmu.org\"\nalias radio.oe1=\"mpv mms://apasf.apa.at/oe1_live_worldwide\"\nalias radio.fm4=\"mpv http://mp3stream1.apasf.apa.at:8000/\"\nalias radio.o94=\"mpv http://orange-01.live.sil.at:8000\"\nalias radio.88vier=\"mpv http://ice.rosebud-media.de:8000/88vier\"\nalias radio.dradio=\"mpv http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l\"\nalias radio.funkhauseuropa=\"mpv http://fhe-ogg.akacast.akamaistream.net/7/933/199785/v1/gnl.akacast.akamaistream.net/fhe-ogg\"\nalias radio.fluxfm=\"mpv http://fluxfm.hoerradar.de/fluxfm-berlin\"\nalias tv.arte=\"(firefox http://www.arte.tv/guide/de/live \n /dev/null 2\n1) \n\"\n\n\n\ncheck if mpv (the successor of mplayer) is installed, if not, replace\nmpv with mplayer, that's most certainly available.", 
+            "title": "Q&A"
+        }, 
+        {
+            "location": "/qa/#questions-and-answers", 
+            "text": "", 
+            "title": "Questions and Answers"
+        }, 
+        {
+            "location": "/qa/#how-to-listen-to-internet-radio-from-the-command-line", 
+            "text": "In file:  .bashrc  alias radio.wfmu=\"mpv http://mp3stream.wfmu.org\"\nalias radio.oe1=\"mpv mms://apasf.apa.at/oe1_live_worldwide\"\nalias radio.fm4=\"mpv http://mp3stream1.apasf.apa.at:8000/\"\nalias radio.o94=\"mpv http://orange-01.live.sil.at:8000\"\nalias radio.88vier=\"mpv http://ice.rosebud-media.de:8000/88vier\"\nalias radio.dradio=\"mpv http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l\"\nalias radio.funkhauseuropa=\"mpv http://fhe-ogg.akacast.akamaistream.net/7/933/199785/v1/gnl.akacast.akamaistream.net/fhe-ogg\"\nalias radio.fluxfm=\"mpv http://fluxfm.hoerradar.de/fluxfm-berlin\"\nalias tv.arte=\"(firefox http://www.arte.tv/guide/de/live   /dev/null 2 1)  \"  check if mpv (the successor of mplayer) is installed, if not, replace\nmpv with mplayer, that's most certainly available.", 
+            "title": "How to listen to internet radio from the command line?"
         }, 
         {
             "location": "/links/", 

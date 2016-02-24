@@ -9,7 +9,7 @@
         
         <link rel="shortcut icon" href="../img/favicon.ico">
 
-	<title>Organization - ReDI Ruby Class - Group 1</title>
+	<title>Q&A - ReDI Ruby Class - Group 1</title>
 
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../css/font-awesome-4.0.3.css" rel="stylesheet">
@@ -68,14 +68,14 @@
             
             
             
-                <li class="active">
-                    <a href="./">Organization</a>
+                <li >
+                    <a href="../organization/">Organization</a>
                 </li>
             
             
             
-                <li >
-                    <a href="../qa/">Q&A</a>
+                <li class="active">
+                    <a href="./">Q&A</a>
                 </li>
             
             
@@ -90,12 +90,12 @@
             <!-- Search, Navigation and Repo links -->
             <ul class="nav navbar-nav navbar-right">
                 <li >
-                    <a rel="next" href="../projects/">
+                    <a rel="next" href="../organization/">
                         <i class="fa fa-arrow-left"></i> Previous
                     </a>
                 </li>
                 <li >
-                    <a rel="prev" href="../qa/">
+                    <a rel="prev" href="../links/">
                         Next <i class="fa fa-arrow-right"></i>
                     </a>
                 </li>
@@ -109,24 +109,30 @@
             <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#organization">Organization</a></li>
+        <li class="main active"><a href="#questions-and-answers">Questions and Answers</a></li>
         
-            <li><a href="#sessions-and-locations">Sessions and Locations</a></li>
+            <li><a href="#how-to-listen-to-internet-radio-from-the-command-line">How to listen to internet radio from the command line?</a></li>
         
     
     </ul>
 </div></div>
             <div class="col-md-9" role="main">
 
-<h1 id="organization">Organization</h1>
-<h2 id="sessions-and-locations">Sessions and Locations</h2>
-<h3 id="sundays-12pm-3pm-gtectechstars">Sundays 12pm - 3pm GTEC/TechStars</h3>
-<p>Breite Str. 1, 10178 Berlin
-Uppermost floor</p>
-<h3 id="wednesdays-7pm-9pm-impact-hub">Wednesdays 7pm - 9pm Impact Hub</h3>
-<p>Friedrichstr. 246, 10969 Berlin</p>
-<h3 id="thursdays-7pm-9pm-impact-hub">Thursdays 7pm - 9pm Impact Hub</h3>
-<p>Friedrichstr. 246, 10969 Berlin</p></div>
+<h1 id="questions-and-answers">Questions and Answers</h1>
+<h2 id="how-to-listen-to-internet-radio-from-the-command-line">How to listen to internet radio from the command line?</h2>
+<p>In file: <code>.bashrc</code></p>
+<pre><code>alias radio.wfmu="mpv http://mp3stream.wfmu.org"
+alias radio.oe1="mpv mms://apasf.apa.at/oe1_live_worldwide"
+alias radio.fm4="mpv http://mp3stream1.apasf.apa.at:8000/"
+alias radio.o94="mpv http://orange-01.live.sil.at:8000"
+alias radio.88vier="mpv http://ice.rosebud-media.de:8000/88vier"
+alias radio.dradio="mpv http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l"
+alias radio.funkhauseuropa="mpv http://fhe-ogg.akacast.akamaistream.net/7/933/199785/v1/gnl.akacast.akamaistream.net/fhe-ogg"
+alias radio.fluxfm="mpv http://fluxfm.hoerradar.de/fluxfm-berlin"
+alias tv.arte="(firefox http://www.arte.tv/guide/de/live &gt; /dev/null 2&gt;&amp;1) &amp;"
+</code></pre>
+<p>check if mpv (the successor of mplayer) is installed, if not, replace
+mpv with mplayer, that's most certainly available.</p></div>
         </div>
 
         <footer class="col-md-12">

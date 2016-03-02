@@ -1,4 +1,5 @@
 # ReDI Ruby Class
+# this is a test
 
 ## Documentation
 This project's documentation follows the conventions of http://www.mkdocs.org/

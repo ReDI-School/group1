@@ -1,5 +1,21 @@
 
 # ReDI Ruby Class - Group 1
+## Session 4 - 2015-03-02
+* Standup
+    * Quick introduction
+    * Check if everybody was successful with HW
+* Individual problems solving
+    * Mostly GIT
+* HTML
+    * Everybody was on http://www.freecodecamp.com/, logged in a try first few tasks
+* CSS
+    * How to define styles:
+        * In HTML tag attribute
+        * In style tage
+        * In separate spreadsheet
+* Homework
+    * Make 2 columns layout for your page, left side is static, right side is scrollable
+        
 ## Session 3 - 2015-02-24 - Mentoring Session
 * Open Panel
     * What did you build recently?

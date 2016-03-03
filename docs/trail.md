@@ -48,7 +48,23 @@ There are several quizzes to test your knowledge of ruby:
 
 [Tutorial for Git Commands](https://try.github.io/levels/1/challenges/1)
 
+## HTML
+[Cheat Sheet](http://www.simplehtmlguide.com/cheatsheet.php)
+
+[Tutorial](http://www.freecodecamp.com/)
+
+[W3C Tutorial](http://www.w3schools.com/html/)
+
+[JSBin for testing](http://jsbin.com/)
+
+## CSS
+[Cheat Sheet](http://www.lesliefranke.com/files/reference/csscheatsheet.html)
+
+[Tutorial](http://www.htmldog.com/guides/css/beginner/)
+
+[W3C Tutorial](http://www.w3schools.com/css/)
+
+[Flex GAME tutorial](http://flexboxfroggy.com/)
+
 ## Coming up next
-* HTML/CSS
-* JavaScript
 * HTTP and REST

@@ -1,22 +1,30 @@
-
 # ReDI Ruby Class - Group 1
-## Session 4 - 2015-03-02
+
+## Thu 2015-03-03 - Mentoring Session (Jonas)
+
+## Wed 2015-03-02 - Mentoring Session (Petr)
 * Standup
     * Quick introduction
     * Check if everybody was successful with HW
 * Individual problems solving
     * Mostly GIT
 * HTML
-    * Everybody was on http://www.freecodecamp.com/, logged in a try first few tasks
+    * Everybody was on
+      [www.freecodecamp.com](http://www.freecodecamp.com/),
+      logged in and tried first few tasks
 * CSS
     * How to define styles:
         * In HTML tag attribute
-        * In style tage
+        * In style tag
         * In separate spreadsheet
 * Homework
     * Make 2 columns layout for your page, left side is static, right side is scrollable
-        
-## Session 3 - 2015-02-24 - Mentoring Session
+
+## Sun 2015-02-28 (Jonas)
+
+## Thu 2015-02-25 - Mentoring Session (Jonas)
+
+## Wed 2015-02-24 - Mentoring Session (Peter)
 * Open Panel
     * What did you build recently?
     * What did you learn recently?
@@ -45,12 +53,12 @@ Please complete the following quizzes before the next session on Sunday:
 * [Arrays, conditionals, loops](  http://www.codequizzes.com/learn-ruby/arrays-conditionals-loops)
 * [Symbols, array methods, hashes](http://www.codequizzes.com/learn-ruby/symbols-array-methods-hashes)
 
-## Session 2 - Til's notes for 2016-02-21
+## Sun 2016-02-21 (Til)
 
 Curriculum is not fully determined yet, especially for the accelerated groups
 Today, let's build a Ruby on Rails app
 
-We go through this tutorial together: http://guides.railsgirls.com/app
+We go through this tutorial together: [guides.railsgirls.com/app](http://guides.railsgirls.com/app)
 What we will cover
 
 Build a Rails app by example. Intro to Rails concepts.
@@ -89,7 +97,7 @@ Read Ruby in 100 Minutes [http://tutorials.jumpstartlab.com/projects/ruby_in_100
 * [http://ryanstutorials.net/linuxtutorial/](http://ryanstutorials.net/linuxtutorial/) - thorough tutorial, also goes into vi use and scripting
 * [http://ryanstutorials.net/linuxtutorial/cheatsheet.php]( http://ryanstutorials.net/linuxtutorial/cheatsheet.php) - cheatsheet from above tutorial
 
-## Session 1 - 2016-02-14 - Ideation Session
+## Sun 2016-02-14 - Ideation Session (all)
 In this session we will
 
 * Identify worthy problems to solve

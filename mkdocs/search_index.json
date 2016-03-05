@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "ReDI Ruby Class - Group 1\n\n\nSession 4 - 2015-03-02\n\n\n\n\nStandup\n\n\nQuick introduction\n\n\nCheck if everybody was successful with HW\n\n\n\n\n\n\nIndividual problems solving\n\n\nMostly GIT\n\n\n\n\n\n\nHTML\n\n\nEverybody was on http://www.freecodecamp.com/, logged in a try first few tasks\n\n\n\n\n\n\nCSS\n\n\nHow to define styles:\n\n\nIn HTML tag attribute\n\n\nIn style tage\n\n\nIn separate spreadsheet\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\nMake 2 columns layout for your page, left side is static, right side is scrollable\n\n\n\n\n\n\n\n\nSession 3 - 2015-02-24 - Mentoring Session\n\n\n\n\nOpen Panel\n\n\nWhat did you build recently?\n\n\nWhat did you learn recently?\n\n\n\n\n\n\nQ\nA Session\n\n\nshort break\n\n\nDigging into Ruby\n\n\nTeam up in groups of 2 (it's called pair programming)\n\n\nComplete the following exercises (from \nLearn Ruby the Hard Way\n):\n\n\nGroup A: Exercise 1, 4, 6, 18, 28, 29\n\n\nGroup B: Exercise 1, 4, 7, 19, 28, 32\n\n\nGroup C: Exercise 1, 4, 8, 21, 28, 33\n\n\n\n\n\n\nShare what you have learned with the rest of the groups    \n\n\n\n\n\n\nWrap up and introduction of assignment    \n\n\n\n\nPhoto Protocol\n\n\n\n\nAssignment for Tomorrow\n\n\n\n\nGo to \nhttps://github.com/ReDI-School/hello-world\n\n\nFollow the instructions on the bottom of the page\n\n\n\n\nSelf assessment\n\n\nPlease complete the following quizzes before the next session on Sunday:\n\n\n\n\nVariables, Strings, Numbers\n                             \n\n\nArrays, conditionals, loops\n\n\nSymbols, array methods, hashes\n\n\n\n\nSession 2 - Til's notes for 2016-02-21\n\n\nCurriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app\n\n\nWe go through this tutorial together: http://guides.railsgirls.com/app\nWhat we will cover\n\n\nBuild a Rails app by example. Intro to Rails concepts.\nBy the end\n\n\nYou will know how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nEveryone on their own laptop\n\n\nWhenever there is something unclear or you are stuck: ask!\n\n\nPlease help each other! I'll help you too of course.\n\n\nToday's project is a throwaway. We'll start with a real project later\nHomework\n\n\nRead Ruby in 100 Minutes \nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\n(Download it now, so that you don't need internet later.)\n\n\nwget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nSelf Study and Further Reading\n\n\nUsing command line and terminal\n\n\n\n\nhttp://www.learnenough.com/command-line-tutorial\n - for complete beginners\n\n\nhttp://cli.learncodethehardway.org/book/\n - step by step tutorial, has a little exercise for each command\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n - thorough tutorial, also goes into vi use and scripting\n\n\nhttp://ryanstutorials.net/linuxtutorial/cheatsheet.php\n - cheatsheet from above tutorial\n\n\n\n\nSession 1 - 2016-02-14 - Ideation Session\n\n\nIn this session we will\n\n\n\n\nIdentify worthy problems to solve\n\n\nCluster these problems into topics\n\n\nGenerate lots of ideas for each of these topics\n\n\nDevlep a pen and paper prototype of how the problems could be solved", 
+            "text": "ReDI Ruby Class - Group 1\n\n\nThu 2015-03-03 - Mentoring Session (Jonas)\n\n\nWed 2015-03-02 - Mentoring Session (Petr)\n\n\n\n\nStandup\n\n\nQuick introduction\n\n\nCheck if everybody was successful with HW\n\n\n\n\n\n\nIndividual problems solving\n\n\nMostly GIT\n\n\n\n\n\n\nHTML\n\n\nEverybody was on\n  \nwww.freecodecamp.com\n,\n  logged in and tried first few tasks\n\n\n\n\n\n\nCSS\n\n\nHow to define styles:\n\n\nIn HTML tag attribute\n\n\nIn style tag\n\n\nIn separate spreadsheet\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\nMake 2 columns layout for your page, left side is static, right side is scrollable\n\n\n\n\n\n\n\n\nSun 2015-02-28 (Jonas)\n\n\nThu 2015-02-25 - Mentoring Session (Jonas)\n\n\nWed 2015-02-24 - Mentoring Session (Peter)\n\n\n\n\nOpen Panel\n\n\nWhat did you build recently?\n\n\nWhat did you learn recently?\n\n\n\n\n\n\nQ\nA Session\n\n\nshort break\n\n\nDigging into Ruby\n\n\nTeam up in groups of 2 (it's called pair programming)\n\n\nComplete the following exercises (from \nLearn Ruby the Hard Way\n):\n\n\nGroup A: Exercise 1, 4, 6, 18, 28, 29\n\n\nGroup B: Exercise 1, 4, 7, 19, 28, 32\n\n\nGroup C: Exercise 1, 4, 8, 21, 28, 33\n\n\n\n\n\n\nShare what you have learned with the rest of the groups    \n\n\n\n\n\n\nWrap up and introduction of assignment    \n\n\n\n\nPhoto Protocol\n\n\n\n\nAssignment for Tomorrow\n\n\n\n\nGo to \nhttps://github.com/ReDI-School/hello-world\n\n\nFollow the instructions on the bottom of the page\n\n\n\n\nSelf assessment\n\n\nPlease complete the following quizzes before the next session on Sunday:\n\n\n\n\nVariables, Strings, Numbers\n                             \n\n\nArrays, conditionals, loops\n\n\nSymbols, array methods, hashes\n\n\n\n\nSun 2016-02-21 (Til)\n\n\nCurriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app\n\n\nWe go through this tutorial together: \nguides.railsgirls.com/app\n\nWhat we will cover\n\n\nBuild a Rails app by example. Intro to Rails concepts.\nBy the end\n\n\nYou will know how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nEveryone on their own laptop\n\n\nWhenever there is something unclear or you are stuck: ask!\n\n\nPlease help each other! I'll help you too of course.\n\n\nToday's project is a throwaway. We'll start with a real project later\nHomework\n\n\nRead Ruby in 100 Minutes \nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\n(Download it now, so that you don't need internet later.)\n\n\nwget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nSelf Study and Further Reading\n\n\nUsing command line and terminal\n\n\n\n\nhttp://www.learnenough.com/command-line-tutorial\n - for complete beginners\n\n\nhttp://cli.learncodethehardway.org/book/\n - step by step tutorial, has a little exercise for each command\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n - thorough tutorial, also goes into vi use and scripting\n\n\nhttp://ryanstutorials.net/linuxtutorial/cheatsheet.php\n - cheatsheet from above tutorial\n\n\n\n\nSun 2016-02-14 - Ideation Session (all)\n\n\nIn this session we will\n\n\n\n\nIdentify worthy problems to solve\n\n\nCluster these problems into topics\n\n\nGenerate lots of ideas for each of these topics\n\n\nDevlep a pen and paper prototype of how the problems could be solved", 
             "title": "Sessions"
         }, 
         {
@@ -11,14 +11,29 @@
             "title": "ReDI Ruby Class - Group 1"
         }, 
         {
-            "location": "/#session-4-2015-03-02", 
-            "text": "Standup  Quick introduction  Check if everybody was successful with HW    Individual problems solving  Mostly GIT    HTML  Everybody was on http://www.freecodecamp.com/, logged in a try first few tasks    CSS  How to define styles:  In HTML tag attribute  In style tage  In separate spreadsheet      Homework  Make 2 columns layout for your page, left side is static, right side is scrollable", 
-            "title": "Session 4 - 2015-03-02"
+            "location": "/#thu-2015-03-03-mentoring-session-jonas", 
+            "text": "", 
+            "title": "Thu 2015-03-03 - Mentoring Session (Jonas)"
         }, 
         {
-            "location": "/#session-3-2015-02-24-mentoring-session", 
+            "location": "/#wed-2015-03-02-mentoring-session-petr", 
+            "text": "Standup  Quick introduction  Check if everybody was successful with HW    Individual problems solving  Mostly GIT    HTML  Everybody was on\n   www.freecodecamp.com ,\n  logged in and tried first few tasks    CSS  How to define styles:  In HTML tag attribute  In style tag  In separate spreadsheet      Homework  Make 2 columns layout for your page, left side is static, right side is scrollable", 
+            "title": "Wed 2015-03-02 - Mentoring Session (Petr)"
+        }, 
+        {
+            "location": "/#sun-2015-02-28-jonas", 
+            "text": "", 
+            "title": "Sun 2015-02-28 (Jonas)"
+        }, 
+        {
+            "location": "/#thu-2015-02-25-mentoring-session-jonas", 
+            "text": "", 
+            "title": "Thu 2015-02-25 - Mentoring Session (Jonas)"
+        }, 
+        {
+            "location": "/#wed-2015-02-24-mentoring-session-peter", 
             "text": "Open Panel  What did you build recently?  What did you learn recently?    Q A Session  short break  Digging into Ruby  Team up in groups of 2 (it's called pair programming)  Complete the following exercises (from  Learn Ruby the Hard Way ):  Group A: Exercise 1, 4, 6, 18, 28, 29  Group B: Exercise 1, 4, 7, 19, 28, 32  Group C: Exercise 1, 4, 8, 21, 28, 33    Share what you have learned with the rest of the groups        Wrap up and introduction of assignment", 
-            "title": "Session 3 - 2015-02-24 - Mentoring Session"
+            "title": "Wed 2015-02-24 - Mentoring Session (Peter)"
         }, 
         {
             "location": "/#photo-protocol", 
@@ -36,9 +51,9 @@
             "title": "Self assessment"
         }, 
         {
-            "location": "/#session-2-tils-notes-for-2016-02-21", 
-            "text": "Curriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app  We go through this tutorial together: http://guides.railsgirls.com/app\nWhat we will cover  Build a Rails app by example. Intro to Rails concepts.\nBy the end  You will know how to create new rails apps and have an overview over the basic structure and functionality of rails.   a web app to store ideas  use so-called scaffolding to generate code  with picture upload  with fancy bootstrap styling  replace railsgirls with redi  replace ideas with something else if you want  Optionally: deploy the rails app to heroku   Everyone on their own laptop  Whenever there is something unclear or you are stuck: ask!  Please help each other! I'll help you too of course.  Today's project is a throwaway. We'll start with a real project later\nHomework  Read Ruby in 100 Minutes  http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html  (Download it now, so that you don't need internet later.)  wget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html", 
-            "title": "Session 2 - Til's notes for 2016-02-21"
+            "location": "/#sun-2016-02-21-til", 
+            "text": "Curriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app  We go through this tutorial together:  guides.railsgirls.com/app \nWhat we will cover  Build a Rails app by example. Intro to Rails concepts.\nBy the end  You will know how to create new rails apps and have an overview over the basic structure and functionality of rails.   a web app to store ideas  use so-called scaffolding to generate code  with picture upload  with fancy bootstrap styling  replace railsgirls with redi  replace ideas with something else if you want  Optionally: deploy the rails app to heroku   Everyone on their own laptop  Whenever there is something unclear or you are stuck: ask!  Please help each other! I'll help you too of course.  Today's project is a throwaway. We'll start with a real project later\nHomework  Read Ruby in 100 Minutes  http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html  (Download it now, so that you don't need internet later.)  wget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html", 
+            "title": "Sun 2016-02-21 (Til)"
         }, 
         {
             "location": "/#self-study-and-further-reading", 
@@ -51,9 +66,9 @@
             "title": "Using command line and terminal"
         }, 
         {
-            "location": "/#session-1-2016-02-14-ideation-session", 
+            "location": "/#sun-2016-02-14-ideation-session-all", 
             "text": "In this session we will   Identify worthy problems to solve  Cluster these problems into topics  Generate lots of ideas for each of these topics  Devlep a pen and paper prototype of how the problems could be solved", 
-            "title": "Session 1 - 2016-02-14 - Ideation Session"
+            "title": "Sun 2016-02-14 - Ideation Session (all)"
         }, 
         {
             "location": "/trail/", 

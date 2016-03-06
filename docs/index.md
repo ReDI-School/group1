@@ -1,5 +1,31 @@
 # ReDI Ruby Class - Group 1
 
+## Sun 2015-03-06 (Til)
+
+We started with a short recap of homework, then spent the rest of the
+day with basic HTML and CSS.
+
+We followed this presentation on
+[HTML and CSS](https://tils.net/html-and-css-presentation/html-and-css.html). (On GitHub:
+[presentation source code](https://github.com/til/html-and-css-presentation)).
+
+To practice, everyone checked out this repository, which contained
+empty pages and empty css files:
+[hello-html-and-css-world](https://github.com/ReDI-School/hello-html-and-css-world/).
+Some pushed their changes at the end, but that was not the main focus
+of the session.
+
+Key concepts covered (see presentation for all)
+
+* basic html structure
+* basic html tags
+* static pages
+* relative links and image references
+* css selectors
+
+Homework: further experiment with the hello-html-and-css-world files
+locally, possibly add content that could be part of their projects.
+
 ## Thu 2015-03-03 - Mentoring Session (Jonas)
 
 ## Wed 2015-03-02 - Mentoring Session (Petr)

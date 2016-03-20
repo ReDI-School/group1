@@ -137,7 +137,7 @@
         }, 
         {
             "location": "/projects/", 
-            "text": "Projects\n\n\nThis page gives an overview of the projects you are working on.\n\n\nIdea app\n\n\nIdea App Tutorial\n\n\nIn this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nHello World app\n\n\nHello World repository\n\n\nIn this project you learn how to use Git for version control and the workflow of working with online Git repositories.\n\n\nBy the end you will\n\n\n\n\nhave your own GitHub account\n\n\nknow how to clone a git project\n\n\nknow how to make changes to a git project\n\n\nknow how to submit these changes back into the main repository", 
+            "text": "Projects\n\n\nThis page gives an overview of the projects you are working on.\n\n\nIdea app\n\n\nIdea App Tutorial\n\n\nIn this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nHello World app\n\n\nHello World repository\n\n\nIn this project you learn how to use Git for version control and the workflow of working with online Git repositories.\n\n\nBy the end you will\n\n\n\n\nhave your own GitHub account\n\n\nknow how to clone a git project\n\n\nknow how to make changes to a git project\n\n\nknow how to submit these changes back into the main repository\n\n\n\n\nhello-html-and-css-world\n\n\nRepository\n\n\nSite\n\n\nBy the end you will\n\n Know how to use HTML tags\n\n Know how to use CSS declarations\n* Know how to embed images in html content\n\n\nhtml-css-training\n\n\nRepository\n\n\nBy the end you will\n\n Know how to add navigation and footers to your website\n\n Have a sandbox to experiment with \nBootstrap", 
             "title": "Projects"
         }, 
         {
@@ -154,6 +154,16 @@
             "location": "/projects/#hello-world-app", 
             "text": "Hello World repository  In this project you learn how to use Git for version control and the workflow of working with online Git repositories.  By the end you will   have your own GitHub account  know how to clone a git project  know how to make changes to a git project  know how to submit these changes back into the main repository", 
             "title": "Hello World app"
+        }, 
+        {
+            "location": "/projects/#hello-html-and-css-world", 
+            "text": "Repository  Site  By the end you will  Know how to use HTML tags  Know how to use CSS declarations\n* Know how to embed images in html content", 
+            "title": "hello-html-and-css-world"
+        }, 
+        {
+            "location": "/projects/#html-css-training", 
+            "text": "Repository  By the end you will  Know how to add navigation and footers to your website  Have a sandbox to experiment with  Bootstrap", 
+            "title": "html-css-training"
         }, 
         {
             "location": "/organization/", 
@@ -212,12 +222,12 @@
         }, 
         {
             "location": "/links/", 
-            "text": "Links\n\n\n\n\nReDI School of Digital Integration\n\n\nPublicWifi\n - wifi spots in Berlin\n\n\nGitHub\n\n\nStack Overflow\n\n\n\n\nMotivational\n\n\n\n\nhttps://youtu.be/vcxwcWuq7KQ\n\n\n\n\nCool Stuff in Other groups\n\n\n\n\nGrand Overview (Group 5)", 
+            "text": "Links\n\n\n\n\nReDI School of Digital Integration\n\n\nCurriculum\n - The curriculum for the first round of ReDI students. (\nwe try to adhere to the curriculum as close as possible, but will adapt it to students needs and interests\n)\n\n\nPublicWifi\n - wifi spots in Berlin\n\n\nGitHub\n\n\nStack Overflow\n\n\nBoostrap\n - JavaScript framework\n\n\n\n\nMotivational\n\n\n\n\nhttps://youtu.be/vcxwcWuq7KQ\n\n\n\n\nCool Stuff in Other groups\n\n\n\n\nGrand Overview (Group 5)", 
             "title": "Links"
         }, 
         {
             "location": "/links/#links", 
-            "text": "ReDI School of Digital Integration  PublicWifi  - wifi spots in Berlin  GitHub  Stack Overflow", 
+            "text": "ReDI School of Digital Integration  Curriculum  - The curriculum for the first round of ReDI students. ( we try to adhere to the curriculum as close as possible, but will adapt it to students needs and interests )  PublicWifi  - wifi spots in Berlin  GitHub  Stack Overflow  Boostrap  - JavaScript framework", 
             "title": "Links"
         }, 
         {

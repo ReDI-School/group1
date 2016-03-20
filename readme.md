@@ -13,4 +13,5 @@ Static html site can be built with `mkdocs build`
 
 To deploy site to GitHub pages use `mkdocs gh-deploy --clean`. 
 
-The published documentation will appear here [http://redi-school.github.io/group1/](http://redi-school.github.io/group1/)
+The published documentation will appear here
+[https://redi-school.github.io/group1/](https://redi-school.github.io/group1/)

@@ -1,9 +1,9 @@
 # Links
 * [ReDI School of Digital Integration](http://redi-school.org/)
-* [Curriculum](http://redi-school.github.io/curriculum/index.html) - The curriculum for the first round of ReDI students. (_we try to adhere to the curriculum as close as possible, but will adapt it to students needs and interests_)
+* [Curriculum](https://redi-school.github.io/curriculum/index.html) - The curriculum for the first round of ReDI students. (_we try to adhere to the curriculum as close as possible, but will adapt it to students needs and interests_)
 * [PublicWifi](http://www.publicwifi.de/) - wifi spots in Berlin
-* [GitHub](http://www.github.com)
-* [Stack Overflow](http://www.stackoverflow.com)
+* [GitHub](https://www.github.com)
+* [Stack Overflow](https://www.stackoverflow.com)
 * [Boostrap](http://getbootstrap.com/) - JavaScript framework
 
 

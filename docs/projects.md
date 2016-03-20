@@ -24,3 +24,20 @@ By the end you will
 * know how to clone a git project
 * know how to make changes to a git project
 * know how to submit these changes back into the main repository
+
+## hello-html-and-css-world
+[Repository](https://github.com/ReDI-School/hello-html-and-css-world)
+
+[Site](https://redi-school.github.io/hello-html-and-css-world/)
+
+By the end you will
+* Know how to use HTML tags
+* Know how to use CSS declarations
+* Know how to embed images in html content
+
+## html-css-training
+[Repository](https://github.com/ReDI-School/html-css-training)
+
+By the end you will
+* Know how to add navigation and footers to your website
+* Have a sandbox to experiment with [Bootstrap](http://getbootstrap.com/) 

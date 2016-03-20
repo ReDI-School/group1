@@ -1,5 +1,27 @@
 # ReDI Ruby Class - Group 1
 
+## Sun 2015-03-20 (Til)
+
+The fundamentals of Rails - everything one needs to know to add a
+resource. Following this presentation
+[redi-rails](https://tils.net/redi-rails/redi-rails.html) (no source
+code online). At the end there was a longer practice session, adding a
+resource to a fresh new rails app (a blog with posts).
+
+## Thu 2015-03-17 (Jonas)
+
+## Wed 2015-03-16 (Til fill-in)
+
+HTML and CSS practice, students mostly on their own researching and
+trying to implement their own design ideas. Continued on the
+hello-html-and-css-world practice project.
+
+## Sun 2015-03-13 (Jonas)
+
+## Thu 2015-03-10
+
+## Wed 2015-03-09
+
 ## Sun 2015-03-06 (Til)
 
 We started with a short recap of homework, then spent the rest of the

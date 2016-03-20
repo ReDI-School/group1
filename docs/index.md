@@ -130,3 +130,7 @@ In this session we will
 * Cluster these problems into topics
 * Generate lots of ideas for each of these topics
 * Devlep a pen and paper prototype of how the problems could be solved
+
+### Photo Protocol
+![photo](images/lets_integrate.jpg)
+![photo](images/cinelingo.jpg)

@@ -1,6 +1,6 @@
 # ReDI Ruby Class - Group 1
 
-## Sun 2015-03-20 (Til)
+## Sun 2016-03-20 (Til)
 
 The fundamentals of Rails - everything one needs to know to add a
 resource. Following this presentation
@@ -8,21 +8,21 @@ resource. Following this presentation
 code online). At the end there was a longer practice session, adding a
 resource to a fresh new rails app (a blog with posts).
 
-## Thu 2015-03-17 (Jonas)
+## Thu 2016-03-17 (Jonas)
 
-## Wed 2015-03-16 (Til fill-in)
+## Wed 2016-03-16 (Til fill-in)
 
 HTML and CSS practice, students mostly on their own researching and
 trying to implement their own design ideas. Continued on the
 hello-html-and-css-world practice project.
 
-## Sun 2015-03-13 (Jonas)
+## Sun 2016-03-13 (Jonas)
 
-## Thu 2015-03-10
+## Thu 2016-03-10
 
-## Wed 2015-03-09
+## Wed 2016-03-09
 
-## Sun 2015-03-06 (Til)
+## Sun 2016-03-06 (Til)
 
 We started with a short recap of homework, then spent the rest of the
 day with basic HTML and CSS.
@@ -48,9 +48,9 @@ Key concepts covered (see presentation for all)
 Homework: further experiment with the hello-html-and-css-world files
 locally, possibly add content that could be part of their projects.
 
-## Thu 2015-03-03 - Mentoring Session (Jonas)
+## Thu 2016-03-03 - Mentoring Session (Jonas)
 
-## Wed 2015-03-02 - Mentoring Session (Petr)
+## Wed 2016-03-02 - Mentoring Session (Petr)
 * Standup
     * Quick introduction
     * Check if everybody was successful with HW
@@ -68,11 +68,11 @@ locally, possibly add content that could be part of their projects.
 * Homework
     * Make 2 columns layout for your page, left side is static, right side is scrollable
 
-## Sun 2015-02-28 (Jonas)
+## Sun 2016-02-28 (Jonas)
 
-## Thu 2015-02-25 - Mentoring Session (Jonas)
+## Thu 2016-02-25 - Mentoring Session (Jonas)
 
-## Wed 2015-02-24 - Mentoring Session (Peter)
+## Wed 2016-02-24 - Mentoring Session (Peter)
 * Open Panel
     * What did you build recently?
     * What did you learn recently?

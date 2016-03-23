@@ -1,278 +1,288 @@
 {
     "docs": [
         {
-            "location": "/",
-            "text": "ReDI Ruby Class - Group 1\n\n\nSun 2016-03-20 (Til)\n\n\nThe fundamentals of Rails - everything one needs to know to add a\nresource. Following this presentation\n\nredi-rails\n (no source\ncode online). At the end there was a longer practice session, adding a\nresource to a fresh new rails app (a blog with posts).\n\n\nThu 2016-03-17 (Jonas)\n\n\nWed 2016-03-16 (Til fill-in)\n\n\nHTML and CSS practice, students mostly on their own researching and\ntrying to implement their own design ideas. Continued on the\nhello-html-and-css-world practice project.\n\n\nSun 2016-03-13 (Jonas)\n\n\nThu 2016-03-10\n\n\nWed 2016-03-09\n\n\nSun 2016-03-06 (Til)\n\n\nWe started with a short recap of homework, then spent the rest of the\nday with basic HTML and CSS.\n\n\nWe followed this presentation on\n\nHTML and CSS\n. (On GitHub:\n\npresentation source code\n).\n\n\nTo practice, everyone checked out this repository, which contained\nempty pages and empty css files:\n\nhello-html-and-css-world\n.\nSome pushed their changes at the end, but that was not the main focus\nof the session.\n\n\nKey concepts covered (see presentation for all)\n\n\n\n\nbasic html structure\n\n\nbasic html tags\n\n\nstatic pages\n\n\nrelative links and image references\n\n\ncss selectors\n\n\n\n\nHomework: further experiment with the hello-html-and-css-world files\nlocally, possibly add content that could be part of their projects.\n\n\nThu 2016-03-03 - Mentoring Session (Jonas)\n\n\nWed 2016-03-02 - Mentoring Session (Petr)\n\n\n\n\nStandup\n\n\nQuick introduction\n\n\nCheck if everybody was successful with HW\n\n\n\n\n\n\nIndividual problems solving\n\n\nMostly GIT\n\n\n\n\n\n\nHTML\n\n\nEverybody was on\n  \nwww.freecodecamp.com\n,\n  logged in and tried first few tasks\n\n\n\n\n\n\nCSS\n\n\nHow to define styles:\n\n\nIn HTML tag attribute\n\n\nIn style tag\n\n\nIn separate spreadsheet\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\nMake 2 columns layout for your page, left side is static, right side is scrollable\n\n\n\n\n\n\n\n\nSun 2016-02-28 (Jonas)\n\n\nThu 2016-02-25 - Mentoring Session (Jonas)\n\n\nWed 2016-02-24 - Mentoring Session (Peter)\n\n\n\n\nOpen Panel\n\n\nWhat did you build recently?\n\n\nWhat did you learn recently?\n\n\n\n\n\n\nQ&A Session\n\n\nshort break\n\n\nDigging into Ruby\n\n\nTeam up in groups of 2 (it's called pair programming)\n\n\nComplete the following exercises (from \nLearn Ruby the Hard Way\n):\n\n\nGroup A: Exercise 1, 4, 6, 18, 28, 29\n\n\nGroup B: Exercise 1, 4, 7, 19, 28, 32\n\n\nGroup C: Exercise 1, 4, 8, 21, 28, 33\n\n\n\n\n\n\nShare what you have learned with the rest of the groups    \n\n\n\n\n\n\nWrap up and introduction of assignment    \n\n\n\n\nPhoto Protocol\n\n\n\n\nAssignment for Tomorrow\n\n\n\n\nGo to \nhttps://github.com/ReDI-School/hello-world\n\n\nFollow the instructions on the bottom of the page\n\n\n\n\nSelf assessment\n\n\nPlease complete the following quizzes before the next session on Sunday:\n\n\n\n\nVariables, Strings, Numbers\n                             \n\n\nArrays, conditionals, loops\n\n\nSymbols, array methods, hashes\n\n\n\n\nSun 2016-02-21 (Til)\n\n\nCurriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app\n\n\nWe go through this tutorial together: \nguides.railsgirls.com/app\n\nWhat we will cover\n\n\nBuild a Rails app by example. Intro to Rails concepts.\nBy the end\n\n\nYou will know how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nEveryone on their own laptop\n\n\nWhenever there is something unclear or you are stuck: ask!\n\n\nPlease help each other! I'll help you too of course.\n\n\nToday's project is a throwaway. We'll start with a real project later\nHomework\n\n\nRead Ruby in 100 Minutes \nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\n(Download it now, so that you don't need internet later.)\n\n\nwget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nSelf Study and Further Reading\n\n\nUsing command line and terminal\n\n\n\n\nhttp://www.learnenough.com/command-line-tutorial\n - for complete beginners\n\n\nhttp://cli.learncodethehardway.org/book/\n - step by step tutorial, has a little exercise for each command\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n - thorough tutorial, also goes into vi use and scripting\n\n\nhttp://ryanstutorials.net/linuxtutorial/cheatsheet.php\n - cheatsheet from above tutorial\n\n\n\n\nSun 2016-02-14 - Ideation Session (all)\n\n\nIn this session we will\n\n\n\n\nIdentify worthy problems to solve\n\n\nCluster these problems into topics\n\n\nGenerate lots of ideas for each of these topics\n\n\nDevlep a pen and paper prototype of how the problems could be solved\n\n\n\n\nPhoto Protocol",
+            "location": "/", 
+            "text": "ReDI Ruby Class - Group 1\n\n\nWed 2016-03-23 (Peter)\n\n\nToday we expand on the blog application started on Sunday. Use your copy, or\ntake this version as your baseline: \nblog-2016-03-20.zip\n\n\n\n\nOpen panel\n\n\nWhat did you build recently?\n\n\nWhat did you learn recently?\n\n\n\n\n\n\nPopulating the database\n\n\nAdd 3 records to the database\n\n\nStretch goal: add 300 records to the database\n\n\n\n\n\n\nRevisiting show and index views\n\n\nShow list of all posts in index page\n\n\nStretch goal: abbreviate blog post body on index page\n\n\nShow details of one post in show page\n\n\n\n\n\n\nShort break\n\n\nAdd links between pages\n\n\nLink from index page to individual show pages\n\n\nLink from show page back to index\n\n\nStretch goal: add next / prev links to show page\n\n\n\n\n\n\nApply common header to all pages\n\n\nRedirect to 404 page if post cannot be found\n\n\nStretch goal: Make a funny 404 page\n\n\n\n\n\n\n\n\nAssignment for Tomorrow\n\n\n\n\nUse your HTML and CSS skills to make it pretty    \n\n\n\n\nSun 2016-03-20 (Til)\n\n\nThe fundamentals of Rails - everything one needs to know to add a\nresource. Following this presentation\n\nredi-rails\n (no source\ncode online). At the end there was a longer practice session, adding a\nresource to a fresh new rails app (a blog with posts).\n\n\nThu 2016-03-17 (Jonas)\n\n\nWed 2016-03-16 (Til fill-in)\n\n\nHTML and CSS practice, students mostly on their own researching and\ntrying to implement their own design ideas. Continued on the\nhello-html-and-css-world practice project.\n\n\nSun 2016-03-13 (Jonas)\n\n\nThu 2016-03-10\n\n\nWed 2016-03-09\n\n\nSun 2016-03-06 (Til)\n\n\nWe started with a short recap of homework, then spent the rest of the\nday with basic HTML and CSS.\n\n\nWe followed this presentation on\n\nHTML and CSS\n. (On GitHub:\n\npresentation source code\n).\n\n\nTo practice, everyone checked out this repository, which contained\nempty pages and empty css files:\n\nhello-html-and-css-world\n.\nSome pushed their changes at the end, but that was not the main focus\nof the session.\n\n\nKey concepts covered (see presentation for all)\n\n\n\n\nbasic html structure\n\n\nbasic html tags\n\n\nstatic pages\n\n\nrelative links and image references\n\n\ncss selectors\n\n\n\n\nHomework: further experiment with the hello-html-and-css-world files\nlocally, possibly add content that could be part of their projects.\n\n\nThu 2016-03-03 - Mentoring Session (Jonas)\n\n\nWed 2016-03-02 - Mentoring Session (Petr)\n\n\n\n\nStandup\n\n\nQuick introduction\n\n\nCheck if everybody was successful with HW\n\n\n\n\n\n\nIndividual problems solving\n\n\nMostly GIT\n\n\n\n\n\n\nHTML\n\n\nEverybody was on\n  \nwww.freecodecamp.com\n,\n  logged in and tried first few tasks\n\n\n\n\n\n\nCSS\n\n\nHow to define styles:\n\n\nIn HTML tag attribute\n\n\nIn style tag\n\n\nIn separate spreadsheet\n\n\n\n\n\n\n\n\n\n\nHomework\n\n\nMake 2 columns layout for your page, left side is static, right side is scrollable\n\n\n\n\n\n\n\n\nSun 2016-02-28 (Jonas)\n\n\nThu 2016-02-25 - Mentoring Session (Jonas)\n\n\nWed 2016-02-24 - Mentoring Session (Peter)\n\n\n\n\nOpen Panel\n\n\nWhat did you build recently?\n\n\nWhat did you learn recently?\n\n\n\n\n\n\nQ\nA Session\n\n\nshort break\n\n\nDigging into Ruby\n\n\nTeam up in groups of 2 (it's called pair programming)\n\n\nComplete the following exercises (from \nLearn Ruby the Hard Way\n):\n\n\nGroup A: Exercise 1, 4, 6, 18, 28, 29\n\n\nGroup B: Exercise 1, 4, 7, 19, 28, 32\n\n\nGroup C: Exercise 1, 4, 8, 21, 28, 33\n\n\n\n\n\n\nShare what you have learned with the rest of the groups    \n\n\n\n\n\n\nWrap up and introduction of assignment    \n\n\n\n\nPhoto Protocol\n\n\n\n\nAssignment for Tomorrow\n\n\n\n\nGo to \nhttps://github.com/ReDI-School/hello-world\n\n\nFollow the instructions on the bottom of the page\n\n\n\n\nSelf assessment\n\n\nPlease complete the following quizzes before the next session on Sunday:\n\n\n\n\nVariables, Strings, Numbers\n                             \n\n\nArrays, conditionals, loops\n\n\nSymbols, array methods, hashes\n\n\n\n\nSun 2016-02-21 (Til)\n\n\nCurriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app\n\n\nWe go through this tutorial together: \nguides.railsgirls.com/app\n\nWhat we will cover\n\n\nBuild a Rails app by example. Intro to Rails concepts.\nBy the end\n\n\nYou will know how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nEveryone on their own laptop\n\n\nWhenever there is something unclear or you are stuck: ask!\n\n\nPlease help each other! I'll help you too of course.\n\n\nToday's project is a throwaway. We'll start with a real project later\nHomework\n\n\nRead Ruby in 100 Minutes \nhttp://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\n(Download it now, so that you don't need internet later.)\n\n\nwget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html\n\n\nSelf Study and Further Reading\n\n\nUsing command line and terminal\n\n\n\n\nhttp://www.learnenough.com/command-line-tutorial\n - for complete beginners\n\n\nhttp://cli.learncodethehardway.org/book/\n - step by step tutorial, has a little exercise for each command\n\n\nhttp://ryanstutorials.net/linuxtutorial/\n - thorough tutorial, also goes into vi use and scripting\n\n\nhttp://ryanstutorials.net/linuxtutorial/cheatsheet.php\n - cheatsheet from above tutorial\n\n\n\n\nSun 2016-02-14 - Ideation Session (all)\n\n\nIn this session we will\n\n\n\n\nIdentify worthy problems to solve\n\n\nCluster these problems into topics\n\n\nGenerate lots of ideas for each of these topics\n\n\nDevlep a pen and paper prototype of how the problems could be solved\n\n\n\n\nPhoto Protocol", 
             "title": "Sessions"
-        },
+        }, 
         {
-            "location": "/#redi-ruby-class-group-1",
-            "text": "",
+            "location": "/#redi-ruby-class-group-1", 
+            "text": "", 
             "title": "ReDI Ruby Class - Group 1"
-        },
+        }, 
         {
-            "location": "/#sun-2016-03-20-til",
-            "text": "The fundamentals of Rails - everything one needs to know to add a\nresource. Following this presentation redi-rails  (no source\ncode online). At the end there was a longer practice session, adding a\nresource to a fresh new rails app (a blog with posts).",
-            "title": "Sun 2016-03-20 (Til)"
-        },
+            "location": "/#wed-2016-03-23-peter", 
+            "text": "Today we expand on the blog application started on Sunday. Use your copy, or\ntake this version as your baseline:  blog-2016-03-20.zip   Open panel  What did you build recently?  What did you learn recently?    Populating the database  Add 3 records to the database  Stretch goal: add 300 records to the database    Revisiting show and index views  Show list of all posts in index page  Stretch goal: abbreviate blog post body on index page  Show details of one post in show page    Short break  Add links between pages  Link from index page to individual show pages  Link from show page back to index  Stretch goal: add next / prev links to show page    Apply common header to all pages  Redirect to 404 page if post cannot be found  Stretch goal: Make a funny 404 page", 
+            "title": "Wed 2016-03-23 (Peter)"
+        }, 
         {
-            "location": "/#thu-2016-03-17-jonas",
-            "text": "",
-            "title": "Thu 2016-03-17 (Jonas)"
-        },
-        {
-            "location": "/#wed-2016-03-16-til-fill-in",
-            "text": "HTML and CSS practice, students mostly on their own researching and\ntrying to implement their own design ideas. Continued on the\nhello-html-and-css-world practice project.",
-            "title": "Wed 2016-03-16 (Til fill-in)"
-        },
-        {
-            "location": "/#sun-2016-03-13-jonas",
-            "text": "",
-            "title": "Sun 2016-03-13 (Jonas)"
-        },
-        {
-            "location": "/#thu-2016-03-10",
-            "text": "",
-            "title": "Thu 2016-03-10"
-        },
-        {
-            "location": "/#wed-2016-03-09",
-            "text": "",
-            "title": "Wed 2016-03-09"
-        },
-        {
-            "location": "/#sun-2016-03-06-til",
-            "text": "We started with a short recap of homework, then spent the rest of the\nday with basic HTML and CSS.  We followed this presentation on HTML and CSS . (On GitHub: presentation source code ).  To practice, everyone checked out this repository, which contained\nempty pages and empty css files: hello-html-and-css-world .\nSome pushed their changes at the end, but that was not the main focus\nof the session.  Key concepts covered (see presentation for all)   basic html structure  basic html tags  static pages  relative links and image references  css selectors   Homework: further experiment with the hello-html-and-css-world files\nlocally, possibly add content that could be part of their projects.",
-            "title": "Sun 2016-03-06 (Til)"
-        },
-        {
-            "location": "/#thu-2016-03-03-mentoring-session-jonas",
-            "text": "",
-            "title": "Thu 2016-03-03 - Mentoring Session (Jonas)"
-        },
-        {
-            "location": "/#wed-2016-03-02-mentoring-session-petr",
-            "text": "Standup  Quick introduction  Check if everybody was successful with HW    Individual problems solving  Mostly GIT    HTML  Everybody was on\n   www.freecodecamp.com ,\n  logged in and tried first few tasks    CSS  How to define styles:  In HTML tag attribute  In style tag  In separate spreadsheet      Homework  Make 2 columns layout for your page, left side is static, right side is scrollable",
-            "title": "Wed 2016-03-02 - Mentoring Session (Petr)"
-        },
-        {
-            "location": "/#sun-2016-02-28-jonas",
-            "text": "",
-            "title": "Sun 2016-02-28 (Jonas)"
-        },
-        {
-            "location": "/#thu-2016-02-25-mentoring-session-jonas",
-            "text": "",
-            "title": "Thu 2016-02-25 - Mentoring Session (Jonas)"
-        },
-        {
-            "location": "/#wed-2016-02-24-mentoring-session-peter",
-            "text": "Open Panel  What did you build recently?  What did you learn recently?    Q&A Session  short break  Digging into Ruby  Team up in groups of 2 (it's called pair programming)  Complete the following exercises (from  Learn Ruby the Hard Way ):  Group A: Exercise 1, 4, 6, 18, 28, 29  Group B: Exercise 1, 4, 7, 19, 28, 32  Group C: Exercise 1, 4, 8, 21, 28, 33    Share what you have learned with the rest of the groups        Wrap up and introduction of assignment",
-            "title": "Wed 2016-02-24 - Mentoring Session (Peter)"
-        },
-        {
-            "location": "/#photo-protocol",
-            "text": "",
-            "title": "Photo Protocol"
-        },
-        {
-            "location": "/#assignment-for-tomorrow",
-            "text": "Go to  https://github.com/ReDI-School/hello-world  Follow the instructions on the bottom of the page",
+            "location": "/#assignment-for-tomorrow", 
+            "text": "Use your HTML and CSS skills to make it pretty", 
             "title": "Assignment for Tomorrow"
-        },
+        }, 
         {
-            "location": "/#self-assessment",
-            "text": "Please complete the following quizzes before the next session on Sunday:   Variables, Strings, Numbers                                Arrays, conditionals, loops  Symbols, array methods, hashes",
-            "title": "Self assessment"
-        },
+            "location": "/#sun-2016-03-20-til", 
+            "text": "The fundamentals of Rails - everything one needs to know to add a\nresource. Following this presentation redi-rails  (no source\ncode online). At the end there was a longer practice session, adding a\nresource to a fresh new rails app (a blog with posts).", 
+            "title": "Sun 2016-03-20 (Til)"
+        }, 
         {
-            "location": "/#sun-2016-02-21-til",
-            "text": "Curriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app  We go through this tutorial together:  guides.railsgirls.com/app \nWhat we will cover  Build a Rails app by example. Intro to Rails concepts.\nBy the end  You will know how to create new rails apps and have an overview over the basic structure and functionality of rails.   a web app to store ideas  use so-called scaffolding to generate code  with picture upload  with fancy bootstrap styling  replace railsgirls with redi  replace ideas with something else if you want  Optionally: deploy the rails app to heroku   Everyone on their own laptop  Whenever there is something unclear or you are stuck: ask!  Please help each other! I'll help you too of course.  Today's project is a throwaway. We'll start with a real project later\nHomework  Read Ruby in 100 Minutes  http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html  (Download it now, so that you don't need internet later.)  wget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html",
-            "title": "Sun 2016-02-21 (Til)"
-        },
+            "location": "/#thu-2016-03-17-jonas", 
+            "text": "", 
+            "title": "Thu 2016-03-17 (Jonas)"
+        }, 
         {
-            "location": "/#self-study-and-further-reading",
-            "text": "",
-            "title": "Self Study and Further Reading"
-        },
+            "location": "/#wed-2016-03-16-til-fill-in", 
+            "text": "HTML and CSS practice, students mostly on their own researching and\ntrying to implement their own design ideas. Continued on the\nhello-html-and-css-world practice project.", 
+            "title": "Wed 2016-03-16 (Til fill-in)"
+        }, 
         {
-            "location": "/#using-command-line-and-terminal",
-            "text": "http://www.learnenough.com/command-line-tutorial  - for complete beginners  http://cli.learncodethehardway.org/book/  - step by step tutorial, has a little exercise for each command  http://ryanstutorials.net/linuxtutorial/  - thorough tutorial, also goes into vi use and scripting  http://ryanstutorials.net/linuxtutorial/cheatsheet.php  - cheatsheet from above tutorial",
-            "title": "Using command line and terminal"
-        },
+            "location": "/#sun-2016-03-13-jonas", 
+            "text": "", 
+            "title": "Sun 2016-03-13 (Jonas)"
+        }, 
         {
-            "location": "/#sun-2016-02-14-ideation-session-all",
-            "text": "In this session we will   Identify worthy problems to solve  Cluster these problems into topics  Generate lots of ideas for each of these topics  Devlep a pen and paper prototype of how the problems could be solved",
-            "title": "Sun 2016-02-14 - Ideation Session (all)"
-        },
+            "location": "/#thu-2016-03-10", 
+            "text": "", 
+            "title": "Thu 2016-03-10"
+        }, 
         {
-            "location": "/#photo-protocol_1",
-            "text": "",
+            "location": "/#wed-2016-03-09", 
+            "text": "", 
+            "title": "Wed 2016-03-09"
+        }, 
+        {
+            "location": "/#sun-2016-03-06-til", 
+            "text": "We started with a short recap of homework, then spent the rest of the\nday with basic HTML and CSS.  We followed this presentation on HTML and CSS . (On GitHub: presentation source code ).  To practice, everyone checked out this repository, which contained\nempty pages and empty css files: hello-html-and-css-world .\nSome pushed their changes at the end, but that was not the main focus\nof the session.  Key concepts covered (see presentation for all)   basic html structure  basic html tags  static pages  relative links and image references  css selectors   Homework: further experiment with the hello-html-and-css-world files\nlocally, possibly add content that could be part of their projects.", 
+            "title": "Sun 2016-03-06 (Til)"
+        }, 
+        {
+            "location": "/#thu-2016-03-03-mentoring-session-jonas", 
+            "text": "", 
+            "title": "Thu 2016-03-03 - Mentoring Session (Jonas)"
+        }, 
+        {
+            "location": "/#wed-2016-03-02-mentoring-session-petr", 
+            "text": "Standup  Quick introduction  Check if everybody was successful with HW    Individual problems solving  Mostly GIT    HTML  Everybody was on\n   www.freecodecamp.com ,\n  logged in and tried first few tasks    CSS  How to define styles:  In HTML tag attribute  In style tag  In separate spreadsheet      Homework  Make 2 columns layout for your page, left side is static, right side is scrollable", 
+            "title": "Wed 2016-03-02 - Mentoring Session (Petr)"
+        }, 
+        {
+            "location": "/#sun-2016-02-28-jonas", 
+            "text": "", 
+            "title": "Sun 2016-02-28 (Jonas)"
+        }, 
+        {
+            "location": "/#thu-2016-02-25-mentoring-session-jonas", 
+            "text": "", 
+            "title": "Thu 2016-02-25 - Mentoring Session (Jonas)"
+        }, 
+        {
+            "location": "/#wed-2016-02-24-mentoring-session-peter", 
+            "text": "Open Panel  What did you build recently?  What did you learn recently?    Q A Session  short break  Digging into Ruby  Team up in groups of 2 (it's called pair programming)  Complete the following exercises (from  Learn Ruby the Hard Way ):  Group A: Exercise 1, 4, 6, 18, 28, 29  Group B: Exercise 1, 4, 7, 19, 28, 32  Group C: Exercise 1, 4, 8, 21, 28, 33    Share what you have learned with the rest of the groups        Wrap up and introduction of assignment", 
+            "title": "Wed 2016-02-24 - Mentoring Session (Peter)"
+        }, 
+        {
+            "location": "/#photo-protocol", 
+            "text": "", 
             "title": "Photo Protocol"
-        },
+        }, 
         {
-            "location": "/trail/",
-            "text": "Study Trail\n\n\nThis page gives on overview of all the topics we have covered and the next topics to come.\n\n\nDesign Thinking\n\n\n\n\nBrainstorming\n\n\nClustering\n\n\nDot voting\n\n\n\"How can we...?\" questions\n\n\nPrototyping\n\n\n\n\nCommand Line\n\n\nCheat Sheet\n\n\nExercises\n\n\nMore exercises\n\n\nCommand Line Tutorial\n\n\nLinux Tutorial\n\n\nProgramming Concepts\n\n\nObject Oriented Programming\n\n\nRuby\n\n\nRuby in 100 minutes\n\n\nRuby in 20 minutes\n\n\nLearn Ruby Books\n\n\nLearn Ruby the Hard Way\n\n\nRuby for Beginners\n\n\nList of several other tutorials\n\n\nSelf assessment\n\n\nThere are several quizzes to test your knowledge of ruby:\n\n\n\n\nVariables, Strings, Numbers\n                             \n\n\nArrays, conditionals, loops\n\n\nSymbols, array methods, hashes\n\n\n\n\nRails\n\n\nRails tutorial\n\n\nGit and GitHub\n\n\nCheat Sheet\n\n\nTutorial for Git Commands\n\n\nHTML\n\n\nCheat Sheet\n\n\nTutorial\n\n\nW3C Tutorial\n\n\nJSBin for testing\n\n\nCSS\n\n\nCheat Sheet\n\n\nTutorial\n\n\nW3C Tutorial\n\n\nFlex GAME tutorial\n\n\nComing up next\n\n\n\n\nHTTP and REST",
-            "title": "Study Trail"
-        },
+            "location": "/#assignment-for-tomorrow_1", 
+            "text": "Go to  https://github.com/ReDI-School/hello-world  Follow the instructions on the bottom of the page", 
+            "title": "Assignment for Tomorrow"
+        }, 
         {
-            "location": "/trail/#study-trail",
-            "text": "This page gives on overview of all the topics we have covered and the next topics to come.",
-            "title": "Study Trail"
-        },
-        {
-            "location": "/trail/#design-thinking",
-            "text": "Brainstorming  Clustering  Dot voting  \"How can we...?\" questions  Prototyping",
-            "title": "Design Thinking"
-        },
-        {
-            "location": "/trail/#command-line",
-            "text": "Cheat Sheet  Exercises  More exercises  Command Line Tutorial  Linux Tutorial",
-            "title": "Command Line"
-        },
-        {
-            "location": "/trail/#programming-concepts",
-            "text": "Object Oriented Programming",
-            "title": "Programming Concepts"
-        },
-        {
-            "location": "/trail/#ruby",
-            "text": "Ruby in 100 minutes  Ruby in 20 minutes  Learn Ruby Books  Learn Ruby the Hard Way  Ruby for Beginners  List of several other tutorials",
-            "title": "Ruby"
-        },
-        {
-            "location": "/trail/#self-assessment",
-            "text": "There are several quizzes to test your knowledge of ruby:   Variables, Strings, Numbers                                Arrays, conditionals, loops  Symbols, array methods, hashes",
+            "location": "/#self-assessment", 
+            "text": "Please complete the following quizzes before the next session on Sunday:   Variables, Strings, Numbers                                Arrays, conditionals, loops  Symbols, array methods, hashes", 
             "title": "Self assessment"
-        },
+        }, 
         {
-            "location": "/trail/#rails",
-            "text": "Rails tutorial",
+            "location": "/#sun-2016-02-21-til", 
+            "text": "Curriculum is not fully determined yet, especially for the accelerated groups\nToday, let's build a Ruby on Rails app  We go through this tutorial together:  guides.railsgirls.com/app \nWhat we will cover  Build a Rails app by example. Intro to Rails concepts.\nBy the end  You will know how to create new rails apps and have an overview over the basic structure and functionality of rails.   a web app to store ideas  use so-called scaffolding to generate code  with picture upload  with fancy bootstrap styling  replace railsgirls with redi  replace ideas with something else if you want  Optionally: deploy the rails app to heroku   Everyone on their own laptop  Whenever there is something unclear or you are stuck: ask!  Please help each other! I'll help you too of course.  Today's project is a throwaway. We'll start with a real project later\nHomework  Read Ruby in 100 Minutes  http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html  (Download it now, so that you don't need internet later.)  wget -l 1 -k -r http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html", 
+            "title": "Sun 2016-02-21 (Til)"
+        }, 
+        {
+            "location": "/#self-study-and-further-reading", 
+            "text": "", 
+            "title": "Self Study and Further Reading"
+        }, 
+        {
+            "location": "/#using-command-line-and-terminal", 
+            "text": "http://www.learnenough.com/command-line-tutorial  - for complete beginners  http://cli.learncodethehardway.org/book/  - step by step tutorial, has a little exercise for each command  http://ryanstutorials.net/linuxtutorial/  - thorough tutorial, also goes into vi use and scripting  http://ryanstutorials.net/linuxtutorial/cheatsheet.php  - cheatsheet from above tutorial", 
+            "title": "Using command line and terminal"
+        }, 
+        {
+            "location": "/#sun-2016-02-14-ideation-session-all", 
+            "text": "In this session we will   Identify worthy problems to solve  Cluster these problems into topics  Generate lots of ideas for each of these topics  Devlep a pen and paper prototype of how the problems could be solved", 
+            "title": "Sun 2016-02-14 - Ideation Session (all)"
+        }, 
+        {
+            "location": "/#photo-protocol_1", 
+            "text": "", 
+            "title": "Photo Protocol"
+        }, 
+        {
+            "location": "/trail/", 
+            "text": "Study Trail\n\n\nThis page gives on overview of all the topics we have covered and the next topics to come.\n\n\nDesign Thinking\n\n\n\n\nBrainstorming\n\n\nClustering\n\n\nDot voting\n\n\n\"How can we...?\" questions\n\n\nPrototyping\n\n\n\n\nCommand Line\n\n\nCheat Sheet\n\n\nExercises\n\n\nMore exercises\n\n\nCommand Line Tutorial\n\n\nLinux Tutorial\n\n\nProgramming Concepts\n\n\nObject Oriented Programming\n\n\nRuby\n\n\nRuby in 100 minutes\n\n\nRuby in 20 minutes\n\n\nLearn Ruby Books\n\n\nLearn Ruby the Hard Way\n\n\nRuby for Beginners\n\n\nList of several other tutorials\n\n\nSelf assessment\n\n\nThere are several quizzes to test your knowledge of ruby:\n\n\n\n\nVariables, Strings, Numbers\n                             \n\n\nArrays, conditionals, loops\n\n\nSymbols, array methods, hashes\n\n\n\n\nRails\n\n\nRails tutorial\n\n\nGit and GitHub\n\n\nCheat Sheet\n\n\nTutorial for Git Commands\n\n\nHTML\n\n\nCheat Sheet\n\n\nTutorial\n\n\nW3C Tutorial\n\n\nJSBin for testing\n\n\nCSS\n\n\nCheat Sheet\n\n\nTutorial\n\n\nW3C Tutorial\n\n\nFlex GAME tutorial\n\n\nComing up next\n\n\n\n\nHTTP and REST", 
+            "title": "Study Trail"
+        }, 
+        {
+            "location": "/trail/#study-trail", 
+            "text": "This page gives on overview of all the topics we have covered and the next topics to come.", 
+            "title": "Study Trail"
+        }, 
+        {
+            "location": "/trail/#design-thinking", 
+            "text": "Brainstorming  Clustering  Dot voting  \"How can we...?\" questions  Prototyping", 
+            "title": "Design Thinking"
+        }, 
+        {
+            "location": "/trail/#command-line", 
+            "text": "Cheat Sheet  Exercises  More exercises  Command Line Tutorial  Linux Tutorial", 
+            "title": "Command Line"
+        }, 
+        {
+            "location": "/trail/#programming-concepts", 
+            "text": "Object Oriented Programming", 
+            "title": "Programming Concepts"
+        }, 
+        {
+            "location": "/trail/#ruby", 
+            "text": "Ruby in 100 minutes  Ruby in 20 minutes  Learn Ruby Books  Learn Ruby the Hard Way  Ruby for Beginners  List of several other tutorials", 
+            "title": "Ruby"
+        }, 
+        {
+            "location": "/trail/#self-assessment", 
+            "text": "There are several quizzes to test your knowledge of ruby:   Variables, Strings, Numbers                                Arrays, conditionals, loops  Symbols, array methods, hashes", 
+            "title": "Self assessment"
+        }, 
+        {
+            "location": "/trail/#rails", 
+            "text": "Rails tutorial", 
             "title": "Rails"
-        },
+        }, 
         {
-            "location": "/trail/#git-and-github",
-            "text": "Cheat Sheet  Tutorial for Git Commands",
+            "location": "/trail/#git-and-github", 
+            "text": "Cheat Sheet  Tutorial for Git Commands", 
             "title": "Git and GitHub"
-        },
+        }, 
         {
-            "location": "/trail/#html",
-            "text": "Cheat Sheet  Tutorial  W3C Tutorial  JSBin for testing",
+            "location": "/trail/#html", 
+            "text": "Cheat Sheet  Tutorial  W3C Tutorial  JSBin for testing", 
             "title": "HTML"
-        },
+        }, 
         {
-            "location": "/trail/#css",
-            "text": "Cheat Sheet  Tutorial  W3C Tutorial  Flex GAME tutorial",
+            "location": "/trail/#css", 
+            "text": "Cheat Sheet  Tutorial  W3C Tutorial  Flex GAME tutorial", 
             "title": "CSS"
-        },
+        }, 
         {
-            "location": "/trail/#coming-up-next",
-            "text": "HTTP and REST",
+            "location": "/trail/#coming-up-next", 
+            "text": "HTTP and REST", 
             "title": "Coming up next"
-        },
+        }, 
         {
-            "location": "/projects/",
-            "text": "Projects\n\n\nThis page gives an overview of the projects you are working on.\n\n\nIdea app\n\n\nIdea App Tutorial\n\n\nIn this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nHello World app\n\n\nHello World repository\n\n\nIn this project you learn how to use Git for version control and the workflow of working with online Git repositories.\n\n\nBy the end you will\n\n\n\n\nhave your own GitHub account\n\n\nknow how to clone a git project\n\n\nknow how to make changes to a git project\n\n\nknow how to submit these changes back into the main repository\n\n\n\n\nhello-html-and-css-world\n\n\nRepository\n\n\nSite\n\n\nBy the end you will\n\n Know how to use HTML tags\n\n Know how to use CSS declarations\n* Know how to embed images in html content\n\n\nhtml-css-training\n\n\nRepository\n\n\nBy the end you will\n\n Know how to add navigation and footers to your website\n\n Have a sandbox to experiment with \nBootstrap",
+            "location": "/projects/", 
+            "text": "Projects\n\n\nThis page gives an overview of the projects you are working on.\n\n\nIdea app\n\n\nIdea App Tutorial\n\n\nIn this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.\n\n\n\n\na web app to store ideas\n\n\nuse so-called scaffolding to generate code\n\n\nwith picture upload\n\n\nwith fancy bootstrap styling\n\n\nreplace railsgirls with redi\n\n\nreplace ideas with something else if you want\n\n\nOptionally: deploy the rails app to heroku\n\n\n\n\nHello World app\n\n\nHello World repository\n\n\nIn this project you learn how to use Git for version control and the workflow of working with online Git repositories.\n\n\nBy the end you will\n\n\n\n\nhave your own GitHub account\n\n\nknow how to clone a git project\n\n\nknow how to make changes to a git project\n\n\nknow how to submit these changes back into the main repository\n\n\n\n\nhello-html-and-css-world\n\n\nRepository\n\n\nSite\n\n\nBy the end you will\n\n Know how to use HTML tags\n\n Know how to use CSS declarations\n* Know how to embed images in html content\n\n\nhtml-css-training\n\n\nRepository\n\n\nBy the end you will\n\n Know how to add navigation and footers to your website\n\n Have a sandbox to experiment with \nBootstrap", 
             "title": "Projects"
-        },
+        }, 
         {
-            "location": "/projects/#projects",
-            "text": "This page gives an overview of the projects you are working on.",
+            "location": "/projects/#projects", 
+            "text": "This page gives an overview of the projects you are working on.", 
             "title": "Projects"
-        },
+        }, 
         {
-            "location": "/projects/#idea-app",
-            "text": "Idea App Tutorial  In this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.   a web app to store ideas  use so-called scaffolding to generate code  with picture upload  with fancy bootstrap styling  replace railsgirls with redi  replace ideas with something else if you want  Optionally: deploy the rails app to heroku",
+            "location": "/projects/#idea-app", 
+            "text": "Idea App Tutorial  In this project you learn how to create new rails apps and have an overview over the basic structure and functionality of rails.   a web app to store ideas  use so-called scaffolding to generate code  with picture upload  with fancy bootstrap styling  replace railsgirls with redi  replace ideas with something else if you want  Optionally: deploy the rails app to heroku", 
             "title": "Idea app"
-        },
+        }, 
         {
-            "location": "/projects/#hello-world-app",
-            "text": "Hello World repository  In this project you learn how to use Git for version control and the workflow of working with online Git repositories.  By the end you will   have your own GitHub account  know how to clone a git project  know how to make changes to a git project  know how to submit these changes back into the main repository",
+            "location": "/projects/#hello-world-app", 
+            "text": "Hello World repository  In this project you learn how to use Git for version control and the workflow of working with online Git repositories.  By the end you will   have your own GitHub account  know how to clone a git project  know how to make changes to a git project  know how to submit these changes back into the main repository", 
             "title": "Hello World app"
-        },
+        }, 
         {
-            "location": "/projects/#hello-html-and-css-world",
-            "text": "Repository  Site  By the end you will  Know how to use HTML tags  Know how to use CSS declarations\n* Know how to embed images in html content",
+            "location": "/projects/#hello-html-and-css-world", 
+            "text": "Repository  Site  By the end you will  Know how to use HTML tags  Know how to use CSS declarations\n* Know how to embed images in html content", 
             "title": "hello-html-and-css-world"
-        },
+        }, 
         {
-            "location": "/projects/#html-css-training",
-            "text": "Repository  By the end you will  Know how to add navigation and footers to your website  Have a sandbox to experiment with  Bootstrap",
+            "location": "/projects/#html-css-training", 
+            "text": "Repository  By the end you will  Know how to add navigation and footers to your website  Have a sandbox to experiment with  Bootstrap", 
             "title": "html-css-training"
-        },
+        }, 
         {
-            "location": "/organization/",
-            "text": "Organization\n\n\nSessions and Locations\n\n\nSundays 12pm - 3pm GTEC/TechStars\n\n\nBreite Str. 1, 10178 Berlin\nUppermost floor\n\n\nWednesdays 7pm - 9pm Impact Hub\n\n\nFriedrichstr. 246, 10969 Berlin\n\n\nThursdays 7pm - 9pm Impact Hub\n\n\nFriedrichstr. 246, 10969 Berlin",
+            "location": "/organization/", 
+            "text": "Organization\n\n\nSessions and Locations\n\n\nSundays 12pm - 3pm GTEC/TechStars\n\n\nBreite Str. 1, 10178 Berlin\nUppermost floor\n\n\nWednesdays 7pm - 9pm Impact Hub\n\n\nFriedrichstr. 246, 10969 Berlin\n\n\nThursdays 7pm - 9pm Impact Hub\n\n\nFriedrichstr. 246, 10969 Berlin", 
             "title": "Organization"
-        },
+        }, 
         {
-            "location": "/organization/#organization",
-            "text": "",
+            "location": "/organization/#organization", 
+            "text": "", 
             "title": "Organization"
-        },
+        }, 
         {
-            "location": "/organization/#sessions-and-locations",
-            "text": "",
+            "location": "/organization/#sessions-and-locations", 
+            "text": "", 
             "title": "Sessions and Locations"
-        },
+        }, 
         {
-            "location": "/organization/#sundays-12pm-3pm-gtectechstars",
-            "text": "Breite Str. 1, 10178 Berlin\nUppermost floor",
+            "location": "/organization/#sundays-12pm-3pm-gtectechstars", 
+            "text": "Breite Str. 1, 10178 Berlin\nUppermost floor", 
             "title": "Sundays 12pm - 3pm GTEC/TechStars"
-        },
+        }, 
         {
-            "location": "/organization/#wednesdays-7pm-9pm-impact-hub",
-            "text": "Friedrichstr. 246, 10969 Berlin",
+            "location": "/organization/#wednesdays-7pm-9pm-impact-hub", 
+            "text": "Friedrichstr. 246, 10969 Berlin", 
             "title": "Wednesdays 7pm - 9pm Impact Hub"
-        },
+        }, 
         {
-            "location": "/organization/#thursdays-7pm-9pm-impact-hub",
-            "text": "Friedrichstr. 246, 10969 Berlin",
+            "location": "/organization/#thursdays-7pm-9pm-impact-hub", 
+            "text": "Friedrichstr. 246, 10969 Berlin", 
             "title": "Thursdays 7pm - 9pm Impact Hub"
-        },
+        }, 
         {
-            "location": "/qa/",
-            "text": "Questions and Answers\n\n\nWhat is the difference between puts and print?\n\n\n\n\nThe puts (short for \"put string\") and print commands are both used to  display the results of evaluating Ruby code. The primary difference between them is that puts adds a newline after executing, and print does not.\n\n\n\n\nexcerpt from \nhttps://www.codecademy.com/articles/glossary-ruby#puts-vs-print\n\n\nCan one build mobile apps with Ruby where ruby is executed on the mobile device?\n\n\nYes and no. See \nhttp://stackoverflow.com/questions/4075610/can-we-use-ruby-on-rails-to-develop-a-mobile-app\n for a general discussion.\n\n\nIf you still want to do it, you might want to take a look at\n\n\n\n\nhttp://www.rubymotion.com/\n\n\nhttp://mobiruby.org/\n\n\n\n\nHow to listen to internet radio from the command line?\n\n\nInstall mpv player by typing \nsudo apt-get install mpv\n in the command line\n\n\nIn file: \n.bashrc\n\n\nalias radio.wfmu=\"mpv http://mp3stream.wfmu.org\"\nalias radio.oe1=\"mpv mms://apasf.apa.at/oe1_live_worldwide\"\nalias radio.fm4=\"mpv http://mp3stream1.apasf.apa.at:8000/\"\nalias radio.o94=\"mpv http://orange-01.live.sil.at:8000\"\nalias radio.88vier=\"mpv http://ice.rosebud-media.de:8000/88vier\"\nalias radio.dradio=\"mpv http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l\"\nalias radio.funkhauseuropa=\"mpv http://fhe-ogg.akacast.akamaistream.net/7/933/199785/v1/gnl.akacast.akamaistream.net/fhe-ogg\"\nalias radio.fluxfm=\"mpv http://fluxfm.hoerradar.de/fluxfm-berlin\"\nalias tv.arte=\"(firefox http://www.arte.tv/guide/de/live > /dev/null 2>&1) &\"\n\n\n\nRestart your terminal for the changes to take effect\n\n\nYou can not listen to the above radio stations by typing the aliases, e.g. \nradio.dradio\n in the command line",
+            "location": "/qa/", 
+            "text": "Questions and Answers\n\n\nWhat is the difference between puts and print?\n\n\n\n\nThe puts (short for \"put string\") and print commands are both used to  display the results of evaluating Ruby code. The primary difference between them is that puts adds a newline after executing, and print does not.\n\n\n\n\nexcerpt from \nhttps://www.codecademy.com/articles/glossary-ruby#puts-vs-print\n\n\nCan one build mobile apps with Ruby where ruby is executed on the mobile device?\n\n\nYes and no. See \nhttp://stackoverflow.com/questions/4075610/can-we-use-ruby-on-rails-to-develop-a-mobile-app\n for a general discussion.\n\n\nIf you still want to do it, you might want to take a look at\n\n\n\n\nhttp://www.rubymotion.com/\n\n\nhttp://mobiruby.org/\n\n\n\n\nHow to listen to internet radio from the command line?\n\n\nInstall mpv player by typing \nsudo apt-get install mpv\n in the command line\n\n\nIn file: \n.bashrc\n\n\nalias radio.wfmu=\"mpv http://mp3stream.wfmu.org\"\nalias radio.oe1=\"mpv mms://apasf.apa.at/oe1_live_worldwide\"\nalias radio.fm4=\"mpv http://mp3stream1.apasf.apa.at:8000/\"\nalias radio.o94=\"mpv http://orange-01.live.sil.at:8000\"\nalias radio.88vier=\"mpv http://ice.rosebud-media.de:8000/88vier\"\nalias radio.dradio=\"mpv http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l\"\nalias radio.funkhauseuropa=\"mpv http://fhe-ogg.akacast.akamaistream.net/7/933/199785/v1/gnl.akacast.akamaistream.net/fhe-ogg\"\nalias radio.fluxfm=\"mpv http://fluxfm.hoerradar.de/fluxfm-berlin\"\nalias tv.arte=\"(firefox http://www.arte.tv/guide/de/live \n /dev/null 2\n1) \n\"\n\n\n\nRestart your terminal for the changes to take effect\n\n\nYou can not listen to the above radio stations by typing the aliases, e.g. \nradio.dradio\n in the command line", 
             "title": "Q&A"
-        },
+        }, 
         {
-            "location": "/qa/#questions-and-answers",
-            "text": "",
+            "location": "/qa/#questions-and-answers", 
+            "text": "", 
             "title": "Questions and Answers"
-        },
+        }, 
         {
-            "location": "/qa/#what-is-the-difference-between-puts-and-print",
-            "text": "The puts (short for \"put string\") and print commands are both used to  display the results of evaluating Ruby code. The primary difference between them is that puts adds a newline after executing, and print does not.   excerpt from  https://www.codecademy.com/articles/glossary-ruby#puts-vs-print",
+            "location": "/qa/#what-is-the-difference-between-puts-and-print", 
+            "text": "The puts (short for \"put string\") and print commands are both used to  display the results of evaluating Ruby code. The primary difference between them is that puts adds a newline after executing, and print does not.   excerpt from  https://www.codecademy.com/articles/glossary-ruby#puts-vs-print", 
             "title": "What is the difference between puts and print?"
-        },
+        }, 
         {
-            "location": "/qa/#can-one-build-mobile-apps-with-ruby-where-ruby-is-executed-on-the-mobile-device",
-            "text": "Yes and no. See  http://stackoverflow.com/questions/4075610/can-we-use-ruby-on-rails-to-develop-a-mobile-app  for a general discussion.  If you still want to do it, you might want to take a look at   http://www.rubymotion.com/  http://mobiruby.org/",
+            "location": "/qa/#can-one-build-mobile-apps-with-ruby-where-ruby-is-executed-on-the-mobile-device", 
+            "text": "Yes and no. See  http://stackoverflow.com/questions/4075610/can-we-use-ruby-on-rails-to-develop-a-mobile-app  for a general discussion.  If you still want to do it, you might want to take a look at   http://www.rubymotion.com/  http://mobiruby.org/", 
             "title": "Can one build mobile apps with Ruby where ruby is executed on the mobile device?"
-        },
+        }, 
         {
-            "location": "/qa/#how-to-listen-to-internet-radio-from-the-command-line",
-            "text": "Install mpv player by typing  sudo apt-get install mpv  in the command line  In file:  .bashrc  alias radio.wfmu=\"mpv http://mp3stream.wfmu.org\"\nalias radio.oe1=\"mpv mms://apasf.apa.at/oe1_live_worldwide\"\nalias radio.fm4=\"mpv http://mp3stream1.apasf.apa.at:8000/\"\nalias radio.o94=\"mpv http://orange-01.live.sil.at:8000\"\nalias radio.88vier=\"mpv http://ice.rosebud-media.de:8000/88vier\"\nalias radio.dradio=\"mpv http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l\"\nalias radio.funkhauseuropa=\"mpv http://fhe-ogg.akacast.akamaistream.net/7/933/199785/v1/gnl.akacast.akamaistream.net/fhe-ogg\"\nalias radio.fluxfm=\"mpv http://fluxfm.hoerradar.de/fluxfm-berlin\"\nalias tv.arte=\"(firefox http://www.arte.tv/guide/de/live > /dev/null 2>&1) &\"  Restart your terminal for the changes to take effect  You can not listen to the above radio stations by typing the aliases, e.g.  radio.dradio  in the command line",
+            "location": "/qa/#how-to-listen-to-internet-radio-from-the-command-line", 
+            "text": "Install mpv player by typing  sudo apt-get install mpv  in the command line  In file:  .bashrc  alias radio.wfmu=\"mpv http://mp3stream.wfmu.org\"\nalias radio.oe1=\"mpv mms://apasf.apa.at/oe1_live_worldwide\"\nalias radio.fm4=\"mpv http://mp3stream1.apasf.apa.at:8000/\"\nalias radio.o94=\"mpv http://orange-01.live.sil.at:8000\"\nalias radio.88vier=\"mpv http://ice.rosebud-media.de:8000/88vier\"\nalias radio.dradio=\"mpv http://dradio-ogg-dlf-l.akacast.akamaistream.net/7/629/135496/v1/gnl.akacast.akamaistream.net/dradio_ogg_dlf_l\"\nalias radio.funkhauseuropa=\"mpv http://fhe-ogg.akacast.akamaistream.net/7/933/199785/v1/gnl.akacast.akamaistream.net/fhe-ogg\"\nalias radio.fluxfm=\"mpv http://fluxfm.hoerradar.de/fluxfm-berlin\"\nalias tv.arte=\"(firefox http://www.arte.tv/guide/de/live   /dev/null 2 1)  \"  Restart your terminal for the changes to take effect  You can not listen to the above radio stations by typing the aliases, e.g.  radio.dradio  in the command line", 
             "title": "How to listen to internet radio from the command line?"
-        },
+        }, 
         {
-            "location": "/links/",
-            "text": "Links\n\n\n\n\nReDI School of Digital Integration\n\n\nCurriculum\n - The curriculum for the first round of ReDI students. (\nwe try to adhere to the curriculum as close as possible, but will adapt it to students needs and interests\n)\n\n\nPublicWifi\n - wifi spots in Berlin\n\n\nGitHub\n\n\nStack Overflow\n\n\nBoostrap\n - JavaScript framework\n\n\n\n\nMotivational\n\n\n\n\nhttps://youtu.be/vcxwcWuq7KQ\n\n\n\n\nCool Stuff in Other groups\n\n\n\n\nGrand Overview (Group 5)",
+            "location": "/links/", 
+            "text": "Links\n\n\n\n\nReDI School of Digital Integration\n\n\nCurriculum\n - The curriculum for the first round of ReDI students. (\nwe try to adhere to the curriculum as close as possible, but will adapt it to students needs and interests\n)\n\n\nPublicWifi\n - wifi spots in Berlin\n\n\nGitHub\n\n\nStack Overflow\n\n\nBoostrap\n - JavaScript framework\n\n\n\n\nMotivational\n\n\n\n\nhttps://youtu.be/vcxwcWuq7KQ\n\n\n\n\nCool Stuff in Other groups\n\n\n\n\nGrand Overview (Group 5)", 
             "title": "Links"
-        },
+        }, 
         {
-            "location": "/links/#links",
-            "text": "ReDI School of Digital Integration  Curriculum  - The curriculum for the first round of ReDI students. ( we try to adhere to the curriculum as close as possible, but will adapt it to students needs and interests )  PublicWifi  - wifi spots in Berlin  GitHub  Stack Overflow  Boostrap  - JavaScript framework",
+            "location": "/links/#links", 
+            "text": "ReDI School of Digital Integration  Curriculum  - The curriculum for the first round of ReDI students. ( we try to adhere to the curriculum as close as possible, but will adapt it to students needs and interests )  PublicWifi  - wifi spots in Berlin  GitHub  Stack Overflow  Boostrap  - JavaScript framework", 
             "title": "Links"
-        },
+        }, 
         {
-            "location": "/links/#motivational",
-            "text": "https://youtu.be/vcxwcWuq7KQ",
+            "location": "/links/#motivational", 
+            "text": "https://youtu.be/vcxwcWuq7KQ", 
             "title": "Motivational"
-        },
+        }, 
         {
-            "location": "/links/#cool-stuff-in-other-groups",
-            "text": "Grand Overview (Group 5)",
+            "location": "/links/#cool-stuff-in-other-groups", 
+            "text": "Grand Overview (Group 5)", 
             "title": "Cool Stuff in Other groups"
         }
     ]

@@ -1,5 +1,32 @@
 # ReDI Ruby Class - Group 1
 
+## Wed 2016-03-23 (Peter)
+
+Today we expand on the blog application started on Sunday. Use your copy, or
+take this version as your baseline: [blog-2016-03-20.zip](material/blog-2016-03-20.zip)
+
+* Open panel
+    * What did you build recently?
+    * What did you learn recently?
+* Populating the database
+    * Add 3 records to the database
+    * Stretch goal: add 300 records to the database
+* Revisiting show and index views
+    * Show list of all posts in index page
+    * Stretch goal: abbreviate blog post body on index page
+    * Show details of one post in show page
+* Short break
+* Add links between pages
+    * Link from index page to individual show pages
+    * Link from show page back to index
+    * Stretch goal: add next / prev links to show page
+* Apply common header to all pages
+* Redirect to 404 page if post cannot be found
+    * Stretch goal: Make a funny 404 page
+
+### Assignment for Tomorrow
+* Use your HTML and CSS skills to make it pretty    
+
 ## Sun 2016-03-20 (Til)
 
 The fundamentals of Rails - everything one needs to know to add a

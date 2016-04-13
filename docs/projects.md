@@ -45,7 +45,7 @@ By the end you will
 ## Blog app
 [Repository](https://github.com/ReDI-School/group1-blog)
 
-This app is loosely inspired by the following tutorial: http://guides.rubyonrails.org/getting_started.html
+This app is loosely inspired by the following tutorial: [http://guides.rubyonrails.org/getting_started.html](http://guides.rubyonrails.org/getting_started.html)
 
 
 By the end you will

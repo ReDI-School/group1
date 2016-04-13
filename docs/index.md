@@ -2,7 +2,8 @@
 
 ## Wed 2016-04-13 (Peter)
 
-Today we expand the blog application again. Use your copy or clone the reference implementation from https://github.com/ReDI-School/group1-blog
+Today we expand the blog application again. Use your copy or clone the reference implementation from [https://github.com/ReDI-School/group1-blog](https://github.com/ReDI-School/group1-blog)
+
 * Open Panel
     * What did you build recently?
     * What did you learn recently?
@@ -17,7 +18,7 @@ Today we expand the blog application again. Use your copy or clone the reference
     * From the new/show page back to index page
     * From the index page to the show page
 * Some CSS to make it look a little better
-    
+
 ## Wed 2016-03-23 (Peter)
 
 Today we expand on the blog application started on Sunday. Use your copy, or

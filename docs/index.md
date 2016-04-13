@@ -1,5 +1,23 @@
 # ReDI Ruby Class - Group 1
 
+## Wed 2016-04-13 (Peter)
+
+Today we expand the blog application again. Use your copy or clone the reference implementation from https://github.com/ReDI-School/group1-blog
+* Open Panel
+    * What did you build recently?
+    * What did you learn recently?
+* Look at the routing declaration `rake routes`
+* Create new posts
+    * New method in controller
+    * Form for new post
+    * Create method in controller
+* Short break
+* Adding links
+    * From all pages to the new post and index pages
+    * From the new/show page back to index page
+    * From the index page to the show page
+* Some CSS to make it look a little better
+    
 ## Wed 2016-03-23 (Peter)
 
 Today we expand on the blog application started on Sunday. Use your copy, or

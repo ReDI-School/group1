@@ -40,4 +40,15 @@ By the end you will
 
 By the end you will
 * Know how to add navigation and footers to your website
-* Have a sandbox to experiment with [Bootstrap](http://getbootstrap.com/) 
+* Have a sandbox to experiment with [Bootstrap](http://getbootstrap.com/)
+
+## Blog app
+[Repository](https://github.com/ReDI-School/group1-blog)
+
+This app is loosely inspired by the following tutorial: http://guides.rubyonrails.org/getting_started.html
+
+
+By the end you will
+* Know how to use rails to develop a web app
+* Know how to use models views and controllers in a rails app
+* Know hot to stitch everything together

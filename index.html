@@ -122,6 +122,8 @@
     
         <li class="main active"><a href="#redi-ruby-class-group-1">ReDI Ruby Class - Group 1</a></li>
         
+            <li><a href="#wed-2016-04-20-peter">Wed 2016-04-20 (Peter)</a></li>
+        
             <li><a href="#wed-2016-04-13-peter">Wed 2016-04-13 (Peter)</a></li>
         
             <li><a href="#wed-2016-03-23-peter">Wed 2016-03-23 (Peter)</a></li>
@@ -160,6 +162,43 @@
                 <div class="col-md-9" role="main">
 
 <h1 id="redi-ruby-class-group-1">ReDI Ruby Class - Group 1</h1>
+<h2 id="wed-2016-04-20-peter">Wed 2016-04-20 (Peter)</h2>
+<p>Today we expand the blog application again. Use your copy or clone the reference implementation from <a href="https://github.com/ReDI-School/group1-blog">https://github.com/ReDI-School/group1-blog</a></p>
+<ul>
+<li>Open Panel<ul>
+<li>What did you build recently?</li>
+<li>What did you learn recently?</li>
+</ul>
+</li>
+<li>Setting the homepage for our application</li>
+<li>Updating articles</li>
+<li>Removing duplicate code</li>
+<li>Adding Validation</li>
+<li>Deleting posts</li>
+<li>Short break</li>
+<li>Adding comments<ul>
+<li>Generate model - in command line: <code>rails generate model Comment commenter:string body:text post:references</code></li>
+<li>Check the following files<ul>
+<li><code>/app/model/comments.rb</code></li>
+<li><code>/db/migrate/</code> (newest file)</li>
+</ul>
+</li>
+<li>Run migration - in command line: <code>rake db:migrate</code> (if that fails try <code>bundle exec rake db:migrate</code>)</li>
+<li>Associate Post and Comment entities</li>
+<li>Update routes</li>
+<li>Generate controller - in command line: <code>rails generate controller Comments</code></li>
+<li>Update views and controller</li>
+</ul>
+</li>
+<li>Celebrate</li>
+</ul>
+<h3 id="homework">Homework</h3>
+<p>Complete the tutorial at <a href="http://guides.rubyonrails.org/getting_started.html">http://guides.rubyonrails.org/getting_started.html</a> chapter 7 and onwards.</p>
+<p>Hints:</p>
+<ul>
+<li>In our app the entity <code>Article</code> is named <code>Post</code></li>
+<li>Besides that pretty much everything is the same</li>
+</ul>
 <h2 id="wed-2016-04-13-peter">Wed 2016-04-13 (Peter)</h2>
 <p>Today we expand the blog application again. Use your copy or clone the reference implementation from <a href="https://github.com/ReDI-School/group1-blog">https://github.com/ReDI-School/group1-blog</a></p>
 <ul>
@@ -172,7 +211,7 @@
 <li>Create new posts<ul>
 <li>New method in controller</li>
 <li>Form for new post</li>
-<li>Create method in controller</li>
+<li>Create  method in controller</li>
 </ul>
 </li>
 <li>Short break</li>
@@ -416,5 +455,5 @@ Homework</p>
 
 <!--
 MkDocs version : 0.14.0
-Build Date UTC : 2016-04-13 05:49:15.673021
+Build Date UTC : 2016-04-20 06:29:47.228083
 -->

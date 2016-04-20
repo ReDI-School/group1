@@ -1,5 +1,40 @@
 # ReDI Ruby Class - Group 1
 
+## Wed 2016-04-20 (Peter)
+
+Today we expand the blog application again. Use your copy or clone the reference implementation from [https://github.com/ReDI-School/group1-blog](https://github.com/ReDI-School/group1-blog)
+
+* Open Panel
+    * What did you build recently?
+    * What did you learn recently?
+* Setting the homepage for our application
+* Updating articles
+* Removing duplicate code
+* Adding Validation
+* Deleting posts
+* Short break
+* Adding comments
+    * Generate model - in command line: `rails generate model Comment commenter:string body:text post:references`
+    * Check the following files
+        * `/app/model/comments.rb`
+        * `/db/migrate/` (newest file)
+    * Run migration - in command line: `rake db:migrate` (if that fails try `bundle exec rake db:migrate`)
+    * Associate Post and Comment entities
+    * Update routes
+    * Generate controller - in command line: `rails generate controller Comments`
+    * Update views and controller
+  * Celebrate
+
+### Homework
+Complete the tutorial at [http://guides.rubyonrails.org/getting_started.html](http://guides.rubyonrails.org/getting_started.html) chapter 7 and onwards.
+
+Hints:
+
+  * In our app the entity `Article` is named `Post`
+  * Besides that pretty much everything is the same
+
+
+
 ## Wed 2016-04-13 (Peter)
 
 Today we expand the blog application again. Use your copy or clone the reference implementation from [https://github.com/ReDI-School/group1-blog](https://github.com/ReDI-School/group1-blog)
@@ -11,7 +46,7 @@ Today we expand the blog application again. Use your copy or clone the reference
 * Create new posts
     * New method in controller
     * Form for new post
-    * Create method in controller
+    * Create  method in controller
 * Short break
 * Adding links
     * From all pages to the new post and index pages

@@ -1,4 +1,14 @@
-# ReDI Ruby Class - Group 1
+# ReDI Ruby Class - Group1
+
+## Sun 2016-04-24 (Jonas)
+
+We also further expanded and edited the blog. Now it has got a side navigation to directly jump to other posts on different pages.
+* Open Panel
+    * What did you build recently?
+    * What did you learn recently?
+* Rendering an index in the new, edit and show pages.
+* Changing the layout to a two colum layout, to have a navigation on the right and the content on the left side.
+* Explanation of the concepts and bug fixing approaches.
 
 ## Wed 2016-04-20 (Peter)
 

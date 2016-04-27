@@ -12,7 +12,7 @@
 	<title>ReDI Ruby Class - Group 1</title>
 
         <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="./css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="./css/font-awesome-4.0.3.css" rel="stylesheet">
         <link href="./css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="./css/highlight.css">
 
@@ -120,7 +120,11 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#redi-ruby-class-group-1">ReDI Ruby Class - Group 1</a></li>
+        <li class="main active"><a href="#redi-ruby-class-group1">ReDI Ruby Class - Group1</a></li>
+        
+            <li><a href="#wed-2016-04-27-peter">Wed 2016-04-27 (Peter)</a></li>
+        
+            <li><a href="#sun-2016-04-24-jonas">Sun 2016-04-24 (Jonas)</a></li>
         
             <li><a href="#wed-2016-04-20-peter">Wed 2016-04-20 (Peter)</a></li>
         
@@ -161,7 +165,42 @@
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="redi-ruby-class-group-1">ReDI Ruby Class - Group 1</h1>
+<h1 id="redi-ruby-class-group1">ReDI Ruby Class - Group1</h1>
+<h2 id="wed-2016-04-27-peter">Wed 2016-04-27 (Peter)</h2>
+<ul>
+<li>Open Panel</li>
+<li>What did you build recently?</li>
+<li>What did you learn recently?</li>
+<li>Adding comments<ul>
+<li>Generate model - in command line: <code>rails generate model Comment commenter:string body:text post:references</code></li>
+<li>Check the following files<ul>
+<li><code>/app/model/comments.rb</code></li>
+<li><code>/db/migrate/</code> (newest file)</li>
+</ul>
+</li>
+<li>Run migration - in command line: <code>rake db:migrate</code> (if that fails try <code>bundle exec rake db:migrate</code>)</li>
+<li>Associate Post and Comment entities</li>
+<li>Update routes</li>
+<li>Generate controller - in command line: <code>rails generate controller Comments</code></li>
+<li>Update views and controller</li>
+</ul>
+</li>
+<li>Short break</li>
+<li>Learning list - what areas do you want to learn more about?</li>
+<li>Feature list - what features shall be added to the blog?</li>
+</ul>
+<h2 id="sun-2016-04-24-jonas">Sun 2016-04-24 (Jonas)</h2>
+<p>We also further expanded and edited the blog. Now it has got a side navigation to directly jump to other posts on different pages.</p>
+<ul>
+<li>Open Panel<ul>
+<li>What did you build recently?</li>
+<li>What did you learn recently?</li>
+</ul>
+</li>
+<li>Rendering an index in the new, edit and show pages.</li>
+<li>Changing the layout to a two colum layout, to have a navigation on the right and the content on the left side.</li>
+<li>Explanation of the concepts and bug fixing approaches.</li>
+</ul>
 <h2 id="wed-2016-04-20-peter">Wed 2016-04-20 (Peter)</h2>
 <p>Today we expand the blog application again. Use your copy or clone the reference implementation from <a href="https://github.com/ReDI-School/group1-blog">https://github.com/ReDI-School/group1-blog</a></p>
 <ul>
@@ -432,6 +471,6 @@ Homework</p>
 </html>
 
 <!--
-MkDocs version : 0.15.3
-Build Date UTC : 2016-04-21 04:54:37.014926
+MkDocs version : 0.14.0
+Build Date UTC : 2016-04-27 05:13:42.119492
 -->

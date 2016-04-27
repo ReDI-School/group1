@@ -1,8 +1,28 @@
 # ReDI Ruby Class - Group1
 
+## Wed 2016-04-27 (Peter)
+* Open Panel
+  * What did you build recently?
+  * What did you learn recently?
+* Adding comments
+	* Generate model - in command line: `rails generate model Comment commenter:string body:text post:references`
+	* Check the following files
+		* `/app/model/comments.rb`
+		* `/db/migrate/` (newest file)
+	* Run migration - in command line: `rake db:migrate` (if that fails try `bundle exec rake db:migrate`)
+	* Associate Post and Comment entities
+	* Update routes
+	* Generate controller - in command line: `rails generate controller Comments`
+	* Update views and controller
+* Short break
+* Learning list - what areas do you want to learn more about?
+* Feature list - what features shall be added to the blog?
+
+
 ## Sun 2016-04-24 (Jonas)
 
 We also further expanded and edited the blog. Now it has got a side navigation to directly jump to other posts on different pages.
+
 * Open Panel
     * What did you build recently?
     * What did you learn recently?
